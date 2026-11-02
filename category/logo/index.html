@@ -1,0 +1,1 @@
+<!doctype html><html lang="nl"><head><meta charset="utf-8"><title>Doorverwijzing</title><meta http-equiv="refresh" content="0; url=/"><link rel="canonical" href="https://dejuistezet.nl/"><meta name="robots" content="noindex"></head><body><p>Deze pagina is verplaatst naar <a href="/">https://dejuistezet.nl/</a>.</p></body></html>

@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+Disallow: /assets/logos/
+Disallow: /downloads/
+
+Sitemap: https://dejuistezet.nl/sitemap.xml

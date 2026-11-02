@@ -1,0 +1,39 @@
+# ZET Detachering & Interim
+ErrorDocument 404 /404.html
+
+<IfModule mod_rewrite.c>
+RewriteEngine On
+# www -> zonder www, en altijd https
+RewriteCond %{HTTP_HOST} ^www\.dejuistezet\.nl$ [NC]
+RewriteRule ^(.*)$ https://dejuistezet.nl/$1 [R=301,L]
+RewriteCond %{HTTPS} off
+RewriteRule ^(.*)$ https://dejuistezet.nl/$1 [R=301,L]
+
+# oude WordPress-URL's (Search Console, oktober 2026) -> nieuwe pagina's
+RewriteRule ^opdrachtgevers/?$ /voor-opdrachtgevers/ [R=301,L]
+RewriteRule ^algemene-voorwaarden-detachering/?$ /detachering/ [R=301,L]
+RewriteRule ^algemene-wervingsvoorwaarden-recruitment/?$ /werving-en-selectie/ [R=301,L]
+RewriteRule ^(disclaimer|privacyverklaring)/?$ /privacy/ [R=301,L]
+RewriteRule ^(category/vacature|category/vacatures|vacature|vacatures)(/.*)?$ /opdrachten/ [R=301,L]
+RewriteRule ^(defensie|kampen|amsterdam|mileway|utrecht|kennemer-wonen)(/.*)?$ /praktijk/ [R=301,L]
+RewriteRule ^get-grip(/.*)?$ / [R=301,L]
+RewriteRule ^(category|tag|author|page|feed|comments|wp-content|wp-includes|wp-json|wp-admin)(/.*)?$ / [R=301,L]
+RewriteRule ^(index\.php|xmlrpc\.php|wp-login\.php)$ / [R=301,L]
+</IfModule>
+
+<IfModule mod_expires.c>
+ExpiresActive On
+ExpiresByType image/png "access plus 30 days"
+ExpiresByType image/webp "access plus 30 days"
+ExpiresByType text/css "access plus 7 days"
+ExpiresByType application/javascript "access plus 7 days"
+</IfModule>
+
+<IfModule mod_headers.c>
+Header always set X-Content-Type-Options "nosniff"
+Header always set Referrer-Policy "strict-origin-when-cross-origin"
+# whitepapers staan achter het e-mailformulier: niet indexeren
+<FilesMatch "\.pdf$">
+Header set X-Robots-Tag "noindex, nofollow"
+</FilesMatch>
+</IfModule>

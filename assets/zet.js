@@ -119,7 +119,7 @@
       fetch(form.action, {method:'POST', body:fd, headers:{'Accept':'application/json'}})
         .then(function(r){ return r.ok ? r.json() : Promise.reject(r); })
         .then(function(){
-          form.querySelectorAll('.field, .form-grid, .form-privacy, .form-alt').forEach(function(x){ x.style.display='none'; });
+          form.querySelectorAll('.field, .form-grid, .form-privacy').forEach(function(x){ x.style.display='none'; });
           btn.style.display='none';
           var naam = (fd.get('naam')||'').toString().split(' ')[0];
           if(ok){ ok.style.display='block'; ok.setAttribute('tabindex','-1'); ok.focus({preventScroll:false}); if(naam){ ok.textContent = ok.textContent.replace('{naam}', naam); } else { ok.textContent = ok.textContent.replace(', {naam}',''); }
@@ -128,20 +128,6 @@
           track('generate_lead', {form_name: form.dataset.zetForm, lead_type: fd.get('type')||form.dataset.zetForm});
           try { localStorage.setItem('zet_lead', JSON.stringify({naam: fd.get('naam')||'', email: fd.get('email')||''})); } catch(e){}
           form.dispatchEvent(new CustomEvent('zet:success'));
-          /* direct een kennismaking inplannen (Cal.com) */
-          var cal = form.dataset.cal || '';
-          if(!cal && form.dataset.calOg){ var tp = (fd.get('type')||'').toString(); cal = tp === 'Professional' ? form.dataset.calPro : (tp === 'Opdrachtgever' ? form.dataset.calOg : ''); }
-          if(cal){
-            var je = /professional/.test(cal);
-            var q = '?embed=true&layout=month_view&theme=light&name=' + encodeURIComponent(fd.get('naam')||'') + '&email=' + encodeURIComponent(fd.get('email')||'');
-            var bl = document.createElement('div'); bl.className = 'cal-plan';
-            bl.innerHTML = '<p class="cal-kop">' + (je ? 'Wil je direct een kennismaking inplannen?' : 'Wilt u direct een kennismaking inplannen?') + '</p>' +
-              '<p class="cal-tekst">' + (je ? 'Kies hieronder een moment dat jou past. Je krijgt een bevestiging met een Teams-link.' : 'Kies hieronder een moment dat u past. U krijgt een bevestiging met een Teams-link.') + '</p>' +
-              '<iframe class="cal-frame" title="Agenda voor een kennismaking" loading="lazy" src="' + cal + q + '"></iframe>' +
-              '<p class="cal-alt"><a href="' + cal + q.replace('embed=true&','') + '" target="_blank" rel="noopener">Open de agenda in een nieuw venster ↗</a></p>';
-            form.appendChild(bl);
-            track('kennismaking_agenda_getoond', {form_name: form.dataset.zetForm});
-          }
         })
         .catch(function(){
           btn.disabled=false; btn.innerHTML=btnText;

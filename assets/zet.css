@@ -628,6 +628,30 @@ a.niche-card{min-height:280px}
 .form-samenvatting li{display:grid;grid-template-columns:130px 1fr;gap:10px;padding:4px 0}
 .form-samenvatting li span{color:var(--ink-60);font-weight:600}
 .form-samenvatting .fs-kop{display:block;font-weight:700;color:var(--ink);margin-bottom:4px}
+.cal-plan{margin-top:22px;padding-top:22px;border-top:1px solid var(--ink-12)}
+.cal-plan .cal-kop{font-weight:700;font-size:1.08rem;margin:0 0 4px}
+.cal-plan .cal-tekst{color:var(--ink-60);margin:0 0 14px;font-size:.95rem}
+.cal-frame{display:block;width:100%;height:640px;border:0;border-radius:13px;background:#fff}
+@media(max-width:600px){.cal-frame{height:720px}}
+.cal-plan .cal-alt{margin:10px 0 0;font-size:.9rem}
+.cal-plan .cal-alt a,.form-alt a{color:var(--coral-ui);font-weight:700}
+.form-alt{margin:12px 0 0;font-size:.9rem;color:var(--ink-60);text-align:center}
+.end-cta .ec-btns{display:flex;gap:14px;justify-content:center;flex-wrap:wrap}
+.end-cta .btn-ghost{border-color:rgba(255,255,255,.7);color:#fff}
+.end-cta .btn-ghost:hover{background:rgba(255,255,255,.12);border-color:#fff}
+@media(max-width:700px){.end-cta .ec-btns{flex-direction:column}}
+.km-wrap{display:grid;grid-template-columns:minmax(0,1fr) 340px;gap:clamp(28px,4vw,56px);align-items:start}
+@media(max-width:960px){.km-wrap{grid-template-columns:1fr}}
+.km-card{background:#fff;border-radius:var(--rad);padding:clamp(20px,2.6vw,34px);box-shadow:0 22px 64px rgba(19,25,75,.1)}
+.km-keuze{display:grid;grid-template-columns:1fr 1fr;gap:8px;background:var(--paper-2);padding:6px;border-radius:999px;margin-bottom:18px}
+.km-keuze button{font:inherit;font-weight:700;border:0;border-radius:999px;padding:12px 10px;background:transparent;color:var(--ink);cursor:pointer}
+.km-keuze button[aria-pressed=true]{background:var(--navy);color:#fff}
+.km-card .cal-frame{height:700px}
+.km-card .cal-alt{margin:12px 0 0;font-size:.9rem;text-align:center}
+.km-card .cal-alt a{color:var(--coral-ui);font-weight:700}
+.km-side h3{margin:0 0 14px}
+.km-side ul{margin:0 0 22px;padding-left:20px;line-height:1.7}
+.km-side .contact-persoon{margin-bottom:22px}
 .form-error{display:none;background:#FDEDEC;border:1.5px solid var(--coral);color:var(--coral-deep);border-radius:13px;padding:14px 18px;font-weight:600;margin-top:6px}
 .btn[disabled]{opacity:.6;cursor:wait}
 .lead-block{background:var(--paper-2);border-radius:clamp(28px,4vw,52px);padding:clamp(40px,6vw,90px) clamp(22px,5vw,80px)}

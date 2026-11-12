@@ -646,7 +646,7 @@ a.niche-card{min-height:280px}
 .km-keuze{display:grid;grid-template-columns:1fr 1fr;gap:8px;background:var(--paper-2);padding:6px;border-radius:999px;margin-bottom:18px}
 .km-keuze button{font:inherit;font-weight:700;border:0;border-radius:999px;padding:12px 10px;background:transparent;color:var(--ink);cursor:pointer}
 .km-keuze button[aria-pressed=true]{background:var(--navy);color:#fff}
-.km-card .cal-frame{height:700px}
+.km-optie{padding:22px 0;border-bottom:1px solid var(--ink-12)}.km-optie:first-child{padding-top:0}.km-optie p{margin:0 0 16px;color:var(--ink-60)}.km-optie .km-l{font-weight:700;letter-spacing:.18em;text-transform:uppercase;font-size:.78rem;color:var(--coral-ui);margin:0 0 6px}.km-optie h3{margin:0 0 8px}.km-uit{background:var(--paper-2);margin:0 -16px;padding:22px 16px;border-radius:12px}.km-note{margin:18px 0 0;font-size:.9rem;color:var(--ink-60)}
 .km-card .cal-alt{margin:12px 0 0;font-size:.9rem;text-align:center}
 .km-card .cal-alt a{color:var(--coral-ui);font-weight:700}
 .km-side h3{margin:0 0 14px}

@@ -69,12 +69,19 @@
   <section class="block">
     <div class="wrap km-wrap">
       <div class="km-card rv">
-        <div class="km-keuze" role="group" aria-label="Ik ben">
-          <button type="button" data-km="https://cal.com/dejuistezet/kennismaking-opdrachtgever" aria-pressed="true">Opdrachtgever</button>
-          <button type="button" data-km="https://cal.com/dejuistezet/kennismaking-professional" aria-pressed="false">Professional</button>
+        <div class="km-optie">
+          <p class="km-l">Opdrachtgever</p>
+          <h3 class="h-md">Kennismaking over uw vraag</h3>
+          <p>30 minuten via Teams of telefoon. We bespreken wie u zoekt en welke vorm past: detachering, interim of werving en selectie.</p>
+          <a class="btn btn-coral km-go" data-km="https://cal.com/dejuistezet/kennismaking-opdrachtgever" href="https://cal.com/dejuistezet/kennismaking-opdrachtgever" target="_blank" rel="noopener" data-magnet>Kies een moment <span class="arr" aria-hidden="true">→</span></a>
         </div>
-        <iframe class="cal-frame" id="kmFrame" title="Agenda voor een kennismaking" src="https://cal.com/dejuistezet/kennismaking-opdrachtgever?embed=true&amp;layout=month_view&amp;theme=light"></iframe>
-        <p class="cal-alt"><a id="kmLink" href="https://cal.com/dejuistezet/kennismaking-opdrachtgever" target="_blank" rel="noopener">Open de agenda in een nieuw venster ↗</a></p>
+        <div class="km-optie" id="professional">
+          <p class="km-l">Professional</p>
+          <h3 class="h-md">Kennismaking over jouw volgende stap</h3>
+          <p>30 minuten via Teams of telefoon. Over je ervaring, wat je zoekt en welke opdrachten bij je passen.</p>
+          <a class="btn btn-coral km-go" data-km="https://cal.com/dejuistezet/kennismaking-professional" href="https://cal.com/dejuistezet/kennismaking-professional" target="_blank" rel="noopener" data-magnet>Kies een moment <span class="arr" aria-hidden="true">→</span></a>
+        </div>
+        <p class="km-note">De agenda opent in een nieuw venster. U krijgt direct een bevestiging met een Teams-link.</p>
       </div>
       <aside class="km-side rv rv-d1">
         <div class="contact-persoon">
@@ -94,17 +101,13 @@
   </section>
 <script>
 (function(){
-  var f = document.getElementById('kmFrame'), l = document.getElementById('kmLink'), bs = document.querySelectorAll('[data-km]');
-  function kies(b){
-    bs.forEach(function(x){ x.setAttribute('aria-pressed', x === b ? 'true' : 'false'); });
-    var u = b.getAttribute('data-km');
-    var lead = {}; try { lead = JSON.parse(localStorage.getItem('zet_lead')||'{}'); } catch(e){}
-    var q = '?embed=true&layout=month_view&theme=light' + (lead.naam ? '&name=' + encodeURIComponent(lead.naam) : '') + (lead.email ? '&email=' + encodeURIComponent(lead.email) : '');
-    if(f.getAttribute('src') !== u + q){ f.setAttribute('src', u + q); }
-    l.href = u;
-  }
-  bs.forEach(function(b){ b.addEventListener('click', function(){ kies(b); if(typeof gtag==='function'){ gtag('event','kennismaking_keuze',{doelgroep: /professional/.test(b.getAttribute('data-km')) ? 'professional' : 'opdrachtgever'}); } }); });
-  kies(location.hash === '#professional' ? bs[1] : bs[0]);
+  var lead = {}; try { lead = JSON.parse(localStorage.getItem('zet_lead')||'{}'); } catch(e){}
+  var q = (lead.naam || lead.email) ? '?' + [lead.naam ? 'name=' + encodeURIComponent(lead.naam) : '', lead.email ? 'email=' + encodeURIComponent(lead.email) : ''].filter(Boolean).join('&') : '';
+  document.querySelectorAll('.km-go').forEach(function(a){
+    a.href = a.getAttribute('data-km') + q;
+    a.addEventListener('click', function(){ if(typeof gtag==='function'){ gtag('event','kennismaking_keuze',{doelgroep: /professional/.test(a.href) ? 'professional' : 'opdrachtgever'}); } });
+  });
+  if(location.hash === '#professional'){ var el = document.getElementById('professional'); if(el){ el.classList.add('km-uit'); } }
 })();
 </script>
 </section>

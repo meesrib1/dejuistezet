@@ -133,12 +133,11 @@
           if(!cal && form.dataset.calOg){ var tp = (fd.get('type')||'').toString(); cal = tp === 'Professional' ? form.dataset.calPro : (tp === 'Opdrachtgever' ? form.dataset.calOg : ''); }
           if(cal){
             var je = /professional/.test(cal);
-            var q = '?embed=true&layout=month_view&theme=light&name=' + encodeURIComponent(fd.get('naam')||'') + '&email=' + encodeURIComponent(fd.get('email')||'');
+            var q = '?name=' + encodeURIComponent(fd.get('naam')||'') + '&email=' + encodeURIComponent(fd.get('email')||'');
             var bl = document.createElement('div'); bl.className = 'cal-plan';
             bl.innerHTML = '<p class="cal-kop">' + (je ? 'Wil je direct een kennismaking inplannen?' : 'Wilt u direct een kennismaking inplannen?') + '</p>' +
-              '<p class="cal-tekst">' + (je ? 'Kies hieronder een moment dat jou past. Je krijgt een bevestiging met een Teams-link.' : 'Kies hieronder een moment dat u past. U krijgt een bevestiging met een Teams-link.') + '</p>' +
-              '<iframe class="cal-frame" title="Agenda voor een kennismaking" loading="lazy" src="' + cal + q + '"></iframe>' +
-              '<p class="cal-alt"><a href="' + cal + q.replace('embed=true&','') + '" target="_blank" rel="noopener">Open de agenda in een nieuw venster ↗</a></p>';
+              '<p class="cal-tekst">' + (je ? 'Kies zelf een moment in de agenda van Mees. Je krijgt meteen een bevestiging met een Teams-link.' : 'Kies zelf een moment in de agenda van Mees. U krijgt meteen een bevestiging met een Teams-link.') + '</p>' +
+              '<a class="btn btn-coral" href="' + cal + q + '" target="_blank" rel="noopener">Kies een moment <span class="arr" aria-hidden="true">→</span></a>';
             form.appendChild(bl);
             track('kennismaking_agenda_getoond', {form_name: form.dataset.zetForm});
           }

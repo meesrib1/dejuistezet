@@ -533,6 +533,10 @@ body.menu-open{overflow:hidden}
 .alert-strip p strong{color:var(--ink)}
 .alert-strip .btn{flex:none;padding:14px 26px;font-size:.95rem}
 @media(max-width:640px){.alert-strip .btn{width:100%;justify-content:center}}
+/* opdracht-alert: foutmarkering van het MailerLite-script */
+.ml-error input,.ml-error select{border-color:var(--coral-ui)!important}
+.checks.ml-error{outline:2px solid rgba(214,54,46,.35);outline-offset:8px;border-radius:8px}
+.row-success.form-card p{margin:0 0 12px;line-height:1.55}
 
 /* ============ MULTI-PAGE AANVULLINGEN ============ */
 .page{display:block;animation:pageIn .7s var(--ease) both}

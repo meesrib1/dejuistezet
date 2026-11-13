@@ -520,6 +520,20 @@ body.menu-open{overflow:hidden}
 }
 :focus-visible{outline:3px solid var(--coral);outline-offset:3px;border-radius:6px}
 
+/* opdracht-alert: vinkjes */
+.field .label{display:block;font-weight:600;margin-bottom:8px}
+.checks{display:grid;grid-template-columns:1fr 1fr;gap:8px 16px}
+.check,.field .check{display:flex;gap:10px;align-items:flex-start;font-size:15px;line-height:1.4;cursor:pointer;font-weight:400;letter-spacing:0;margin-bottom:0}
+.check input,.field .check input{margin-top:3px;width:18px;height:18px;padding:0;flex:none;accent-color:var(--coral,#E8603C)}
+@media(max-width:640px){.checks{grid-template-columns:1fr}}
+/* opdracht-alert: strook boven de opdrachtenlijst */
+.alert-strip{display:flex;flex-wrap:wrap;gap:16px 28px;align-items:center;justify-content:space-between;
+  background:var(--paper-2);border:1px solid var(--ink-12);border-radius:20px;padding:18px 22px;margin-bottom:clamp(26px,3vw,40px)}
+.alert-strip p{margin:0;max-width:52ch;color:var(--ink-60);line-height:1.5}
+.alert-strip p strong{color:var(--ink)}
+.alert-strip .btn{flex:none;padding:14px 26px;font-size:.95rem}
+@media(max-width:640px){.alert-strip .btn{width:100%;justify-content:center}}
+
 /* ============ MULTI-PAGE AANVULLINGEN ============ */
 .page{display:block;animation:pageIn .7s var(--ease) both}
 main{display:block}

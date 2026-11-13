@@ -96,16 +96,28 @@
       var btn = form.querySelector('button[type=submit]');
       var ok = form.querySelector('.form-success'), err = form.querySelector('.form-error');
       if(err){ err.style.display='none'; }
-      var required = form.querySelectorAll('[required]');
+      var required = form.querySelectorAll('[required],[data-require-one]');
       form.querySelectorAll('.field-msg').forEach(function(x){ x.remove(); });
       form.querySelectorAll('[aria-invalid]').forEach(function(x){ x.removeAttribute('aria-invalid'); });
       for(var i=0;i<required.length;i++){
-        var leeg = !required[i].value.trim(), fout = (required[i].type==='email' && required[i].value.indexOf('@')<0);
+        if(required[i].hasAttribute('data-require-one')){
+          /* groep vinkjes waarvan er minstens een aan moet (data-require-one="melding") */
+          if(!required[i].querySelector('input:checked')){
+            var gm = required[i].getAttribute('data-require-one') || 'Kies minimaal een optie.';
+            if(err){ err.textContent = gm; err.style.display='block'; }
+            var gmsg = document.createElement('p'); gmsg.className='field-msg'; gmsg.textContent = gm;
+            (required[i].closest('.field') || required[i].parentNode).appendChild(gmsg);
+            if(required[i].scrollIntoView){ required[i].scrollIntoView({behavior:'smooth', block:'center'}); } return;
+          }
+          continue;
+        }
+        var vink = required[i].type==='checkbox';
+        var leeg = vink ? !required[i].checked : !required[i].value.trim(), fout = (required[i].type==='email' && required[i].value.indexOf('@')<0);
         if(leeg || fout){
           if(err){ err.textContent='Vul alle verplichte velden in, met een geldig e-mailadres.'; err.style.display='block'; }
           required[i].setAttribute('aria-invalid','true');
-          var msg = document.createElement('p'); msg.className='field-msg'; msg.textContent = fout && !leeg ? 'Vul een geldig e-mailadres in.' : 'Dit veld is verplicht.';
-          required[i].parentNode.appendChild(msg);
+          var msg = document.createElement('p'); msg.className='field-msg'; msg.textContent = fout && !leeg ? 'Vul een geldig e-mailadres in.' : (vink ? 'Vink dit aan om verder te gaan.' : 'Dit veld is verplicht.');
+          (required[i].closest('.field') || required[i].parentNode).appendChild(msg);
           required[i].focus(); if(required[i].scrollIntoView){ required[i].scrollIntoView({behavior:'smooth', block:'center'}); } return;
         }
       }
@@ -113,6 +125,13 @@
       var btnText = btn.innerHTML; btn.disabled = true; btn.innerHTML = 'Versturen…';
       var samenvatting = [];
       form.querySelectorAll('.field').forEach(function(x){
+        var boxes = x.querySelectorAll('input[type=checkbox]');
+        if(boxes.length){
+          var kop = x.querySelector('.label'), gekozen = [];
+          boxes.forEach(function(b){ if(b.checked){ gekozen.push(b.value); } });
+          if(kop && gekozen.length){ samenvatting.push('<li><span>' + kop.textContent.replace(' *','') + '</span>' + gekozen.join(', ').replace(/</g,'&lt;') + '</li>'); }
+          return;
+        }
         var lab = x.querySelector('label'), inp = x.querySelector('input,select,textarea');
         if(lab && inp && inp.value && inp.type !== 'hidden'){ samenvatting.push('<li><span>' + lab.textContent.replace(' *','') + '</span>' + inp.value.replace(/</g,'&lt;') + '</li>'); }
       });

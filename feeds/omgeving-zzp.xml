@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:zet="https://dejuistezet.nl/feeds/ns">
   <channel>
     <title>ZET: Omgevingsmanagement (zzp)</title>
     <link>https://dejuistezet.nl/opdrachten/</link>
     <atom:link href="https://dejuistezet.nl/feeds/omgeving-zzp.xml" rel="self" type="application/rss+xml"/>
     <description>Nieuwe zzp-opdrachten in omgevingsmanagement.</description>
     <language>nl-NL</language>
-    <lastBuildDate>Fri, 13 Nov 2026 15:10:37 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 15 Nov 2026 10:18:24 +0000</lastBuildDate>
     <item>
       <title>Omgevingsmanager civiele projecten en gebiedsontwikkeling bij Gemeente Waalwijk</title>
       <link>https://dejuistezet.nl/opdrachten/omgevingsmanager-civiele-projecten-en-gebiedsontwikkeling-gemeente-waalwijk/</link>
@@ -14,6 +14,7 @@
       <pubDate>Thu, 05 Nov 2026 12:00:00 +0100</pubDate>
       <category>Gebieds- en projectontwikkeling</category><category>Omgevingsmanagement</category><category>Openbare ruimte en civiele techniek bij gemeenten</category>
       <description><![CDATA[<p><strong>Gemeente Waalwijk</strong><br>Waalwijk (Noord-Brabant), grotendeels op kantoor · 24 uur · Zzp of loondienst<br>Start: 3 januari 2027<br>Reageer uiterlijk 26 november 2026</p><p>Als omgevingsmanager de reconstructie- en gebiedsontwikkelingsprojecten van Waalwijk verbinden met bewoners, ondernemers en belangenorganisaties.</p><p><a href="https://dejuistezet.nl/opdrachten/omgevingsmanager-civiele-projecten-en-gebiedsontwikkeling-gemeente-waalwijk/">Bekijk de opdracht en reageer</a></p>]]></description>
+      <zet:titel>Omgevingsmanager civiele projecten en gebiedsontwikkeling</zet:titel><zet:organisatie>Gemeente Waalwijk</zet:organisatie><zet:locatie>Waalwijk (Noord-Brabant), grotendeels op kantoor</zet:locatie><zet:uren>24</zet:uren><zet:vorm>Zzp of loondienst</zet:vorm><zet:start>3 januari 2027</zet:start><zet:sluit>2026-11-26</zet:sluit><zet:datum>2026-11-05</zet:datum><zet:samenvatting>Als omgevingsmanager de reconstructie- en gebiedsontwikkelingsprojecten van Waalwijk verbinden met bewoners, ondernemers en belangenorganisaties.</zet:samenvatting><zet:vakgebieden>gebiedsontwikkeling,omgeving,openbare-ruimte</zet:vakgebieden>
     </item>
   </channel>
 </rss>

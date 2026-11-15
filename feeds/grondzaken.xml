@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:zet="https://dejuistezet.nl/feeds/ns">
   <channel>
     <title>ZET: Grondzaken en planeconomie</title>
     <link>https://dejuistezet.nl/opdrachten/</link>
     <atom:link href="https://dejuistezet.nl/feeds/grondzaken.xml" rel="self" type="application/rss+xml"/>
     <description>Nieuwe opdrachten in grondzaken en planeconomie.</description>
     <language>nl-NL</language>
-    <lastBuildDate>Fri, 13 Nov 2026 15:10:37 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 15 Nov 2026 10:18:24 +0000</lastBuildDate>
     <item>
       <title>Jurist grondzaken bij Gemeente Amersfoort</title>
       <link>https://dejuistezet.nl/opdrachten/jurist-grondzaken-gemeente-amersfoort/</link>
@@ -14,6 +14,7 @@
       <pubDate>Fri, 13 Nov 2026 12:00:00 +0100</pubDate>
       <category>Grondzaken en planeconomie</category><category>Vastgoedjuridisch en contracten</category>
       <description><![CDATA[<p><strong>Gemeente Amersfoort</strong><br>Amersfoort (Utrecht) · 36 uur · Loondienst (detachering)<br>Start: 1 december 2026<br>Reageer uiterlijk 18 november 2026</p><p>Juridische allrounder grond- en vastgoedzaken voor de projecten en gebiedsontwikkelingen van een groeiende stad met 1.000 woningen per jaar.</p><p><a href="https://dejuistezet.nl/opdrachten/jurist-grondzaken-gemeente-amersfoort/">Bekijk de opdracht en reageer</a></p>]]></description>
+      <zet:titel>Jurist grondzaken</zet:titel><zet:organisatie>Gemeente Amersfoort</zet:organisatie><zet:locatie>Amersfoort (Utrecht)</zet:locatie><zet:uren>36</zet:uren><zet:vorm>Loondienst (detachering)</zet:vorm><zet:start>1 december 2026</zet:start><zet:sluit>2026-11-18</zet:sluit><zet:datum>2026-11-13</zet:datum><zet:samenvatting>Juridische allrounder grond- en vastgoedzaken voor de projecten en gebiedsontwikkelingen van een groeiende stad met 1.000 woningen per jaar.</zet:samenvatting><zet:vakgebieden>grondzaken,juridisch</zet:vakgebieden>
     </item>
   </channel>
 </rss>

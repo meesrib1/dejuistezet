@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:zet="https://dejuistezet.nl/feeds/ns">
   <channel>
     <title>ZET: Gebieds- en projectontwikkeling (zzp)</title>
     <link>https://dejuistezet.nl/opdrachten/</link>
     <atom:link href="https://dejuistezet.nl/feeds/gebiedsontwikkeling-zzp.xml" rel="self" type="application/rss+xml"/>
     <description>Nieuwe zzp-opdrachten in gebieds- en projectontwikkeling.</description>
     <language>nl-NL</language>
-    <lastBuildDate>Fri, 13 Nov 2026 15:10:37 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 15 Nov 2026 10:18:24 +0000</lastBuildDate>
     <item>
       <title>Senior jurist ruimtelijke ontwikkeling bij Gemeente Heeze-Leende</title>
       <link>https://dejuistezet.nl/opdrachten/senior-jurist-ruimtelijke-ontwikkeling-gemeente-heeze-leende/</link>
@@ -14,6 +14,7 @@
       <pubDate>Fri, 13 Nov 2026 12:00:00 +0100</pubDate>
       <category>Gebieds- en projectontwikkeling</category><category>Vastgoedjuridisch en contracten</category>
       <description><![CDATA[<p><strong>Gemeente Heeze-Leende</strong><br>Heeze (Noord-Brabant) · 36 uur · Zzp of loondienst<br>Start: Zo snel mogelijk<br>Reageer uiterlijk 17 november 2026</p><p>Senior jurist omgevingsrecht die complexe ruimtelijke initiatieven en procedures begeleidt en bestuur en management strategisch adviseert.</p><p><a href="https://dejuistezet.nl/opdrachten/senior-jurist-ruimtelijke-ontwikkeling-gemeente-heeze-leende/">Bekijk de opdracht en reageer</a></p>]]></description>
+      <zet:titel>Senior jurist ruimtelijke ontwikkeling</zet:titel><zet:organisatie>Gemeente Heeze-Leende</zet:organisatie><zet:locatie>Heeze (Noord-Brabant)</zet:locatie><zet:uren>36</zet:uren><zet:vorm>Zzp of loondienst</zet:vorm><zet:start>Zo snel mogelijk</zet:start><zet:sluit>2026-11-17</zet:sluit><zet:datum>2026-11-13</zet:datum><zet:samenvatting>Senior jurist omgevingsrecht die complexe ruimtelijke initiatieven en procedures begeleidt en bestuur en management strategisch adviseert.</zet:samenvatting><zet:vakgebieden>gebiedsontwikkeling,juridisch</zet:vakgebieden>
     </item>
     <item>
       <title>Gebiedsontwikkelaar Spoorzone bij Gemeente Tilburg</title>
@@ -22,6 +23,7 @@
       <pubDate>Fri, 13 Nov 2026 12:00:00 +0100</pubDate>
       <category>Gebieds- en projectontwikkeling</category>
       <description><![CDATA[<p><strong>Gemeente Tilburg</strong><br>Tilburg (Noord-Brabant) · 28 uur · Zzp of loondienst<br>Start: 23 november 2026<br>Reageer uiterlijk 13 november 2026</p><p>Gemeentelijk boegbeeld van de Spoorzone Tilburg: stuur de gebiedsontwikkeling, de projectleiders en de samenwerking met marktpartijen en de stad.</p><p><a href="https://dejuistezet.nl/opdrachten/gebiedsontwikkelaar-spoorzone-gemeente-tilburg/">Bekijk de opdracht en reageer</a></p>]]></description>
+      <zet:titel>Gebiedsontwikkelaar Spoorzone</zet:titel><zet:organisatie>Gemeente Tilburg</zet:organisatie><zet:locatie>Tilburg (Noord-Brabant)</zet:locatie><zet:uren>28</zet:uren><zet:vorm>Zzp of loondienst</zet:vorm><zet:start>23 november 2026</zet:start><zet:sluit>2026-11-13</zet:sluit><zet:datum>2026-11-13</zet:datum><zet:samenvatting>Gemeentelijk boegbeeld van de Spoorzone Tilburg: stuur de gebiedsontwikkeling, de projectleiders en de samenwerking met marktpartijen en de stad.</zet:samenvatting><zet:vakgebieden>gebiedsontwikkeling</zet:vakgebieden>
     </item>
     <item>
       <title>Projectdirecteur gebiedsontwikkeling Stationskwartier bij Gemeente Culemborg</title>
@@ -30,6 +32,7 @@
       <pubDate>Thu, 12 Nov 2026 12:00:00 +0100</pubDate>
       <category>Gebieds- en projectontwikkeling</category>
       <description><![CDATA[<p><strong>Gemeente Culemborg</strong><br>Culemborg (Gelderland) · 24 uur · Zzp of loondienst<br>Start: 1 december 2026<br>Reageer uiterlijk 24 november 2026</p><p>Geef als projectdirecteur vorm aan de ontwikkeling van circa 1.900 woningen in het Stationskwartier van Culemborg en zet de uitvoeringsorganisatie op.</p><p><a href="https://dejuistezet.nl/opdrachten/projectdirecteur-gebiedsontwikkeling-stationskwartier-gemeente-culemborg/">Bekijk de opdracht en reageer</a></p>]]></description>
+      <zet:titel>Projectdirecteur gebiedsontwikkeling Stationskwartier</zet:titel><zet:organisatie>Gemeente Culemborg</zet:organisatie><zet:locatie>Culemborg (Gelderland)</zet:locatie><zet:uren>24</zet:uren><zet:vorm>Zzp of loondienst</zet:vorm><zet:start>1 december 2026</zet:start><zet:sluit>2026-11-24</zet:sluit><zet:datum>2026-11-12</zet:datum><zet:samenvatting>Geef als projectdirecteur vorm aan de ontwikkeling van circa 1.900 woningen in het Stationskwartier van Culemborg en zet de uitvoeringsorganisatie op.</zet:samenvatting><zet:vakgebieden>gebiedsontwikkeling</zet:vakgebieden>
     </item>
     <item>
       <title>Interim teammanager ruimtelijke projecten bij Gemeente Helmond</title>
@@ -38,6 +41,7 @@
       <pubDate>Thu, 12 Nov 2026 12:00:00 +0100</pubDate>
       <category>Gebieds- en projectontwikkeling</category>
       <description><![CDATA[<p><strong>Gemeente Helmond</strong><br>Helmond (Noord-Brabant) · 36 uur · Zzp of loondienst<br>Start: 1 december 2026<br>Reageer uiterlijk 17 november 2026</p><p>Geef tijdelijk leiding aan het team Projecten van Helmond, zo&#x27;n 35 projectmanagers die de ruimtelijk-fysieke projecten van de stad realiseren.</p><p><a href="https://dejuistezet.nl/opdrachten/interim-teammanager-ruimtelijke-projecten-gemeente-helmond/">Bekijk de opdracht en reageer</a></p>]]></description>
+      <zet:titel>Interim teammanager ruimtelijke projecten</zet:titel><zet:organisatie>Gemeente Helmond</zet:organisatie><zet:locatie>Helmond (Noord-Brabant)</zet:locatie><zet:uren>36</zet:uren><zet:vorm>Zzp of loondienst</zet:vorm><zet:start>1 december 2026</zet:start><zet:sluit>2026-11-17</zet:sluit><zet:datum>2026-11-12</zet:datum><zet:samenvatting>Geef tijdelijk leiding aan het team Projecten van Helmond, zo&#x27;n 35 projectmanagers die de ruimtelijk-fysieke projecten van de stad realiseren.</zet:samenvatting><zet:vakgebieden>gebiedsontwikkeling</zet:vakgebieden>
     </item>
     <item>
       <title>Projectadviseur ruimtelijke ordening en omgevingsrecht bij Gemeente Waterland</title>
@@ -46,6 +50,7 @@
       <pubDate>Wed, 11 Nov 2026 12:00:00 +0100</pubDate>
       <category>Gebieds- en projectontwikkeling</category>
       <description><![CDATA[<p><strong>Gemeente Waterland</strong><br>Monnickendam (Noord-Holland) · 28 uur · Zzp of loondienst<br>Start: 1 januari 2027<br>Reageer uiterlijk 20 november 2026</p><p>Zet bij Waterland een kennis- en ontwikkeltraject ruimtelijke ordening op en begeleid twee startende collega&#x27;s bij complexe procedures en Bopa&#x27;s.</p><p><a href="https://dejuistezet.nl/opdrachten/projectadviseur-ruimtelijke-ordening-en-omgevingsrecht-gemeente-waterland/">Bekijk de opdracht en reageer</a></p>]]></description>
+      <zet:titel>Projectadviseur ruimtelijke ordening en omgevingsrecht</zet:titel><zet:organisatie>Gemeente Waterland</zet:organisatie><zet:locatie>Monnickendam (Noord-Holland)</zet:locatie><zet:uren>28</zet:uren><zet:vorm>Zzp of loondienst</zet:vorm><zet:start>1 januari 2027</zet:start><zet:sluit>2026-11-20</zet:sluit><zet:datum>2026-11-11</zet:datum><zet:samenvatting>Zet bij Waterland een kennis- en ontwikkeltraject ruimtelijke ordening op en begeleid twee startende collega&#x27;s bij complexe procedures en Bopa&#x27;s.</zet:samenvatting><zet:vakgebieden>gebiedsontwikkeling</zet:vakgebieden>
     </item>
     <item>
       <title>Projectleider ruimtelijke ontwikkeling bij Gemeente Zwartewaterland</title>
@@ -54,6 +59,7 @@
       <pubDate>Wed, 11 Nov 2026 12:00:00 +0100</pubDate>
       <category>Projectleiding bouw en vastgoed</category><category>Gebieds- en projectontwikkeling</category>
       <description><![CDATA[<p><strong>Gemeente Zwartewaterland</strong><br>Hasselt (Overijssel) · 16 uur · Zzp of loondienst<br>Start: 19 november 2026<br>Reageer uiterlijk 18 november 2026</p><p>Voer projectregie over complexe ruimtelijke ontwikkelopgaven in Hasselt en Genemuiden, waaronder de transformatie van jachthaven De Molenwaard.</p><p><a href="https://dejuistezet.nl/opdrachten/projectleider-ruimtelijke-ontwikkeling-gemeente-zwartewaterland/">Bekijk de opdracht en reageer</a></p>]]></description>
+      <zet:titel>Projectleider ruimtelijke ontwikkeling</zet:titel><zet:organisatie>Gemeente Zwartewaterland</zet:organisatie><zet:locatie>Hasselt (Overijssel)</zet:locatie><zet:uren>16</zet:uren><zet:vorm>Zzp of loondienst</zet:vorm><zet:start>19 november 2026</zet:start><zet:sluit>2026-11-18</zet:sluit><zet:datum>2026-11-11</zet:datum><zet:samenvatting>Voer projectregie over complexe ruimtelijke ontwikkelopgaven in Hasselt en Genemuiden, waaronder de transformatie van jachthaven De Molenwaard.</zet:samenvatting><zet:vakgebieden>projectleiding,gebiedsontwikkeling</zet:vakgebieden>
     </item>
     <item>
       <title>Senior adviseur stedenbouw Flora Campus bij Gemeente Westland</title>
@@ -62,6 +68,7 @@
       <pubDate>Tue, 10 Nov 2026 12:00:00 +0100</pubDate>
       <category>Gebieds- en projectontwikkeling</category>
       <description><![CDATA[<p><strong>Gemeente Westland</strong><br>Naaldwijk (Zuid-Holland), hybride · 8 uur · Zzp of loondienst<br>Start: 17 november 2026<br>Reageer uiterlijk 16 november 2026</p><p>Adviseer het kwaliteitsteam van Flora Campus Westland over ruimtelijke voorstellen, verkaveling, openbare ruimte en inpassing van infrastructuur.</p><p><a href="https://dejuistezet.nl/opdrachten/senior-adviseur-stedenbouw-flora-campus-gemeente-westland/">Bekijk de opdracht en reageer</a></p>]]></description>
+      <zet:titel>Senior adviseur stedenbouw Flora Campus</zet:titel><zet:organisatie>Gemeente Westland</zet:organisatie><zet:locatie>Naaldwijk (Zuid-Holland), hybride</zet:locatie><zet:uren>8</zet:uren><zet:vorm>Zzp of loondienst</zet:vorm><zet:start>17 november 2026</zet:start><zet:sluit>2026-11-16</zet:sluit><zet:datum>2026-11-10</zet:datum><zet:samenvatting>Adviseer het kwaliteitsteam van Flora Campus Westland over ruimtelijke voorstellen, verkaveling, openbare ruimte en inpassing van infrastructuur.</zet:samenvatting><zet:vakgebieden>gebiedsontwikkeling</zet:vakgebieden>
     </item>
     <item>
       <title>Senior projectleider gebiedsontwikkeling en woningbouw bij 1Stroom (gemeenten Duiven en Westervoort)</title>
@@ -70,6 +77,7 @@
       <pubDate>Mon, 09 Nov 2026 12:00:00 +0100</pubDate>
       <category>Projectleiding bouw en vastgoed</category><category>Gebieds- en projectontwikkeling</category><category>Wonen, woningbouw en beleid</category>
       <description><![CDATA[<p><strong>1Stroom (gemeenten Duiven en Westervoort)</strong><br>Duiven (Gelderland) · 20 tot 24 uur · Zzp of loondienst<br>Start: 20 november 2026<br>Reageer uiterlijk 19 november 2026</p><p>Leid de woningbouwlocatie Biezenkampen in Duiven en meerdere kleinere herontwikkellocaties integraal, van planologie tot bestuurlijke besluitvorming.</p><p><a href="https://dejuistezet.nl/opdrachten/senior-projectleider-gebiedsontwikkeling-en-woningbouw-1stroom-gemeenten-duiven-en-westervoort/">Bekijk de opdracht en reageer</a></p>]]></description>
+      <zet:titel>Senior projectleider gebiedsontwikkeling en woningbouw</zet:titel><zet:organisatie>1Stroom (gemeenten Duiven en Westervoort)</zet:organisatie><zet:locatie>Duiven (Gelderland)</zet:locatie><zet:uren>20 tot 24</zet:uren><zet:vorm>Zzp of loondienst</zet:vorm><zet:start>20 november 2026</zet:start><zet:sluit>2026-11-19</zet:sluit><zet:datum>2026-11-09</zet:datum><zet:samenvatting>Leid de woningbouwlocatie Biezenkampen in Duiven en meerdere kleinere herontwikkellocaties integraal, van planologie tot bestuurlijke besluitvorming.</zet:samenvatting><zet:vakgebieden>projectleiding,gebiedsontwikkeling,wonen</zet:vakgebieden>
     </item>
     <item>
       <title>Senior beleidsadviseur ruimtelijke ontwikkeling en omgevingsplan bij Gemeente Oude IJsselstreek</title>
@@ -78,6 +86,7 @@
       <pubDate>Fri, 06 Nov 2026 12:00:00 +0100</pubDate>
       <category>Gebieds- en projectontwikkeling</category><category>Wonen, woningbouw en beleid</category><category>Vastgoedjuridisch en contracten</category>
       <description><![CDATA[<p><strong>Gemeente Oude IJsselstreek</strong><br>Gendringen (Gelderland), hybride · 36 uur · Zzp of loondienst<br>Start: 1 januari 2027<br>Reageer uiterlijk 13 november 2026</p><p>Het omgevingsplan en het Beleidshuis van Oude IJsselstreek verder brengen: belangen afwegen, beleid vertalen naar regels en planprocedures begeleiden.</p><p><a href="https://dejuistezet.nl/opdrachten/senior-beleidsadviseur-ruimtelijke-ontwikkeling-en-omgevingsplan-gemeente-oude-ijsselstreek/">Bekijk de opdracht en reageer</a></p>]]></description>
+      <zet:titel>Senior beleidsadviseur ruimtelijke ontwikkeling en omgevingsplan</zet:titel><zet:organisatie>Gemeente Oude IJsselstreek</zet:organisatie><zet:locatie>Gendringen (Gelderland), hybride</zet:locatie><zet:uren>36</zet:uren><zet:vorm>Zzp of loondienst</zet:vorm><zet:start>1 januari 2027</zet:start><zet:sluit>2026-11-13</zet:sluit><zet:datum>2026-11-06</zet:datum><zet:samenvatting>Het omgevingsplan en het Beleidshuis van Oude IJsselstreek verder brengen: belangen afwegen, beleid vertalen naar regels en planprocedures begeleiden.</zet:samenvatting><zet:vakgebieden>gebiedsontwikkeling,wonen,juridisch</zet:vakgebieden>
     </item>
     <item>
       <title>Omgevingsmanager civiele projecten en gebiedsontwikkeling bij Gemeente Waalwijk</title>
@@ -86,6 +95,7 @@
       <pubDate>Thu, 05 Nov 2026 12:00:00 +0100</pubDate>
       <category>Gebieds- en projectontwikkeling</category><category>Omgevingsmanagement</category><category>Openbare ruimte en civiele techniek bij gemeenten</category>
       <description><![CDATA[<p><strong>Gemeente Waalwijk</strong><br>Waalwijk (Noord-Brabant), grotendeels op kantoor · 24 uur · Zzp of loondienst<br>Start: 3 januari 2027<br>Reageer uiterlijk 26 november 2026</p><p>Als omgevingsmanager de reconstructie- en gebiedsontwikkelingsprojecten van Waalwijk verbinden met bewoners, ondernemers en belangenorganisaties.</p><p><a href="https://dejuistezet.nl/opdrachten/omgevingsmanager-civiele-projecten-en-gebiedsontwikkeling-gemeente-waalwijk/">Bekijk de opdracht en reageer</a></p>]]></description>
+      <zet:titel>Omgevingsmanager civiele projecten en gebiedsontwikkeling</zet:titel><zet:organisatie>Gemeente Waalwijk</zet:organisatie><zet:locatie>Waalwijk (Noord-Brabant), grotendeels op kantoor</zet:locatie><zet:uren>24</zet:uren><zet:vorm>Zzp of loondienst</zet:vorm><zet:start>3 januari 2027</zet:start><zet:sluit>2026-11-26</zet:sluit><zet:datum>2026-11-05</zet:datum><zet:samenvatting>Als omgevingsmanager de reconstructie- en gebiedsontwikkelingsprojecten van Waalwijk verbinden met bewoners, ondernemers en belangenorganisaties.</zet:samenvatting><zet:vakgebieden>gebiedsontwikkeling,omgeving,openbare-ruimte</zet:vakgebieden>
     </item>
   </channel>
 </rss>

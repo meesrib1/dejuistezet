@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:zet="https://dejuistezet.nl/feeds/ns">
   <channel>
     <title>ZET: Asset- en portefeuillemanagement</title>
     <link>https://dejuistezet.nl/opdrachten/</link>
     <atom:link href="https://dejuistezet.nl/feeds/asset.xml" rel="self" type="application/rss+xml"/>
     <description>Nieuwe opdrachten in asset- en portefeuillemanagement.</description>
     <language>nl-NL</language>
-    <lastBuildDate>Fri, 13 Nov 2026 15:10:37 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 15 Nov 2026 10:18:24 +0000</lastBuildDate>
     <item>
       <title>Portefeuillemanager onbebouwd vastgoed en sport bij Gemeente Maastricht</title>
       <link>https://dejuistezet.nl/opdrachten/portefeuillemanager-onbebouwd-vastgoed-en-sport-gemeente-maastricht/</link>
@@ -14,6 +14,7 @@
       <pubDate>Thu, 12 Nov 2026 12:00:00 +0100</pubDate>
       <category>Asset- en portefeuillemanagement</category>
       <description><![CDATA[<p><strong>Gemeente Maastricht</strong><br>Maastricht (Limburg) · 36 uur · Loondienst (detachering)<br>Start: 23 november 2026<br>Reageer uiterlijk 26 november 2026</p><p>Beheer en exploiteer de portefeuille onbebouwd vastgoed en sport van Maastricht, van erfpacht en pacht tot stadion en sporthallen.</p><p><a href="https://dejuistezet.nl/opdrachten/portefeuillemanager-onbebouwd-vastgoed-en-sport-gemeente-maastricht/">Bekijk de opdracht en reageer</a></p>]]></description>
+      <zet:titel>Portefeuillemanager onbebouwd vastgoed en sport</zet:titel><zet:organisatie>Gemeente Maastricht</zet:organisatie><zet:locatie>Maastricht (Limburg)</zet:locatie><zet:uren>36</zet:uren><zet:vorm>Loondienst (detachering)</zet:vorm><zet:start>23 november 2026</zet:start><zet:sluit>2026-11-26</zet:sluit><zet:datum>2026-11-12</zet:datum><zet:samenvatting>Beheer en exploiteer de portefeuille onbebouwd vastgoed en sport van Maastricht, van erfpacht en pacht tot stadion en sporthallen.</zet:samenvatting><zet:vakgebieden>asset</zet:vakgebieden>
     </item>
     <item>
       <title>Senior WOZ-taxateur bij Gemeente Amsterdam</title>
@@ -22,6 +23,7 @@
       <pubDate>Thu, 12 Nov 2026 12:00:00 +0100</pubDate>
       <category>Asset- en portefeuillemanagement</category>
       <description><![CDATA[<p><strong>Gemeente Amsterdam</strong><br>Amsterdam (Noord-Holland) · 36 uur · Loondienst (detachering)<br>Start: 1 januari 2027<br>Reageer uiterlijk 19 november 2026</p><p>Voer zelfstandig WOZ-taxaties en marktanalyses uit voor ruim 500.000 objecten in Amsterdam, verbeter rekenmodellen en behandel bezwaar en beroep.</p><p><a href="https://dejuistezet.nl/opdrachten/senior-woz-taxateur-gemeente-amsterdam/">Bekijk de opdracht en reageer</a></p>]]></description>
+      <zet:titel>Senior WOZ-taxateur</zet:titel><zet:organisatie>Gemeente Amsterdam</zet:organisatie><zet:locatie>Amsterdam (Noord-Holland)</zet:locatie><zet:uren>36</zet:uren><zet:vorm>Loondienst (detachering)</zet:vorm><zet:start>1 januari 2027</zet:start><zet:sluit>2026-11-19</zet:sluit><zet:datum>2026-11-12</zet:datum><zet:samenvatting>Voer zelfstandig WOZ-taxaties en marktanalyses uit voor ruim 500.000 objecten in Amsterdam, verbeter rekenmodellen en behandel bezwaar en beroep.</zet:samenvatting><zet:vakgebieden>asset</zet:vakgebieden>
     </item>
     <item>
       <title>Assetmanager maatschappelijk vastgoed bij Gemeente Utrecht</title>
@@ -30,6 +32,7 @@
       <pubDate>Thu, 12 Nov 2026 12:00:00 +0100</pubDate>
       <category>Asset- en portefeuillemanagement</category>
       <description><![CDATA[<p><strong>Gemeente Utrecht</strong><br>Utrecht (Utrecht) · 32 tot 36 uur · Loondienst (detachering)<br>Start: Zo snel mogelijk<br>Reageer uiterlijk 16 november 2026</p><p>Vervul de eigenaarsrol voor een deel van de maatschappelijke vastgoedportefeuille van Utrecht: scholen, buurthuizen en sportaccommodaties.</p><p><a href="https://dejuistezet.nl/opdrachten/assetmanager-maatschappelijk-vastgoed-gemeente-utrecht/">Bekijk de opdracht en reageer</a></p>]]></description>
+      <zet:titel>Assetmanager maatschappelijk vastgoed</zet:titel><zet:organisatie>Gemeente Utrecht</zet:organisatie><zet:locatie>Utrecht (Utrecht)</zet:locatie><zet:uren>32 tot 36</zet:uren><zet:vorm>Loondienst (detachering)</zet:vorm><zet:start>Zo snel mogelijk</zet:start><zet:sluit>2026-11-16</zet:sluit><zet:datum>2026-11-12</zet:datum><zet:samenvatting>Vervul de eigenaarsrol voor een deel van de maatschappelijke vastgoedportefeuille van Utrecht: scholen, buurthuizen en sportaccommodaties.</zet:samenvatting><zet:vakgebieden>asset</zet:vakgebieden>
     </item>
     <item>
       <title>Projectcoördinator programma strategisch vastgoed bij Hogeschool Utrecht</title>
@@ -38,6 +41,7 @@
       <pubDate>Thu, 12 Nov 2026 12:00:00 +0100</pubDate>
       <category>Projectleiding bouw en vastgoed</category><category>Asset- en portefeuillemanagement</category>
       <description><![CDATA[<p><strong>Hogeschool Utrecht</strong><br>Utrecht (Utrecht) · 24 uur · Loondienst (detachering)<br>Start: 1 december 2026<br>Reageer uiterlijk 16 november 2026</p><p>Breng structuur in het programma dat de gebouwen van Hogeschool Utrecht verduurzaamt: planning, voortgang, administratie en communicatie.</p><p><a href="https://dejuistezet.nl/opdrachten/projectcoordinator-programma-strategisch-vastgoed-hogeschool-utrecht/">Bekijk de opdracht en reageer</a></p>]]></description>
+      <zet:titel>Projectcoördinator programma strategisch vastgoed</zet:titel><zet:organisatie>Hogeschool Utrecht</zet:organisatie><zet:locatie>Utrecht (Utrecht)</zet:locatie><zet:uren>24</zet:uren><zet:vorm>Loondienst (detachering)</zet:vorm><zet:start>1 december 2026</zet:start><zet:sluit>2026-11-16</zet:sluit><zet:datum>2026-11-12</zet:datum><zet:samenvatting>Breng structuur in het programma dat de gebouwen van Hogeschool Utrecht verduurzaamt: planning, voortgang, administratie en communicatie.</zet:samenvatting><zet:vakgebieden>projectleiding,asset</zet:vakgebieden>
     </item>
     <item>
       <title>Ambtelijk opdrachtgever maatschappelijke voorzieningen bij Gemeente Delft</title>
@@ -46,6 +50,7 @@
       <pubDate>Tue, 10 Nov 2026 12:00:00 +0100</pubDate>
       <category>Projectleiding bouw en vastgoed</category><category>Asset- en portefeuillemanagement</category>
       <description><![CDATA[<p><strong>Gemeente Delft</strong><br>Delft (Zuid-Holland), hybride · 32 tot 36 uur · Loondienst (detachering)<br>Start: 4 januari 2027<br>Reageer uiterlijk 20 november 2026</p><p>Voer namens Delft de regie op strategische vastgoedopgaven voor onderwijs, welzijn en zorg, van programmering tot realisatie en beheer.</p><p><a href="https://dejuistezet.nl/opdrachten/ambtelijk-opdrachtgever-maatschappelijke-voorzieningen-gemeente-delft/">Bekijk de opdracht en reageer</a></p>]]></description>
+      <zet:titel>Ambtelijk opdrachtgever maatschappelijke voorzieningen</zet:titel><zet:organisatie>Gemeente Delft</zet:organisatie><zet:locatie>Delft (Zuid-Holland), hybride</zet:locatie><zet:uren>32 tot 36</zet:uren><zet:vorm>Loondienst (detachering)</zet:vorm><zet:start>4 januari 2027</zet:start><zet:sluit>2026-11-20</zet:sluit><zet:datum>2026-11-10</zet:datum><zet:samenvatting>Voer namens Delft de regie op strategische vastgoedopgaven voor onderwijs, welzijn en zorg, van programmering tot realisatie en beheer.</zet:samenvatting><zet:vakgebieden>projectleiding,asset</zet:vakgebieden>
     </item>
     <item>
       <title>Beleidsadviseur maatschappelijk vastgoed bij Gemeente IJsselstein</title>
@@ -54,6 +59,7 @@
       <pubDate>Mon, 09 Nov 2026 12:00:00 +0100</pubDate>
       <category>Asset- en portefeuillemanagement</category><category>Wonen, woningbouw en beleid</category>
       <description><![CDATA[<p><strong>Gemeente IJsselstein</strong><br>IJsselstein (Utrecht), hybride · 18 uur · Loondienst (detachering)<br>Start: 1 december 2026<br>Reageer uiterlijk 13 november 2026</p><p>Breng het vastgoedbeleid van IJsselstein op orde: ontvlecht en bundel de bestaande stukken en maak een helder beleidskader met afstootstrategie.</p><p><a href="https://dejuistezet.nl/opdrachten/beleidsadviseur-maatschappelijk-vastgoed-gemeente-ijsselstein/">Bekijk de opdracht en reageer</a></p>]]></description>
+      <zet:titel>Beleidsadviseur maatschappelijk vastgoed</zet:titel><zet:organisatie>Gemeente IJsselstein</zet:organisatie><zet:locatie>IJsselstein (Utrecht), hybride</zet:locatie><zet:uren>18</zet:uren><zet:vorm>Loondienst (detachering)</zet:vorm><zet:start>1 december 2026</zet:start><zet:sluit>2026-11-13</zet:sluit><zet:datum>2026-11-09</zet:datum><zet:samenvatting>Breng het vastgoedbeleid van IJsselstein op orde: ontvlecht en bundel de bestaande stukken en maak een helder beleidskader met afstootstrategie.</zet:samenvatting><zet:vakgebieden>asset,wonen</zet:vakgebieden>
     </item>
   </channel>
 </rss>

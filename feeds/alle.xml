@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:zet="https://dejuistezet.nl/feeds/ns">
   <channel>
     <title>ZET: nieuwe vastgoedopdrachten</title>
     <link>https://dejuistezet.nl/opdrachten/</link>
     <atom:link href="https://dejuistezet.nl/feeds/alle.xml" rel="self" type="application/rss+xml"/>
     <description>Interim-, zzp- en detacheringsopdrachten in vastgoed bij gemeenten, Rijk, corporaties, zorg en onderwijs. Dagelijks bijgewerkt.</description>
     <language>nl-NL</language>
-    <lastBuildDate>Fri, 13 Nov 2026 15:10:37 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 15 Nov 2026 10:18:24 +0000</lastBuildDate>
     <item>
       <title>Projectleider utiliteitsbouw (2 posities) bij Staatsbosbeheer</title>
       <link>https://dejuistezet.nl/opdrachten/projectleider-utiliteitsbouw-2-posities-staatsbosbeheer/</link>
@@ -14,6 +14,7 @@
       <pubDate>Fri, 13 Nov 2026 12:00:00 +0100</pubDate>
       <category>Projectleiding bouw en vastgoed</category>
       <description><![CDATA[<p><strong>Staatsbosbeheer</strong><br>West-Nederland, projecten op locatie · 36 uur · Loondienst (detachering)<br>Start: 4 januari 2027<br>Reageer uiterlijk 4 december 2026</p><p>Twee ervaren projectleiders voor nieuwbouw en verbouw van kantoren van Staatsbosbeheer, waaronder een duurzaam modulair houtbouwconcept.</p><p><a href="https://dejuistezet.nl/opdrachten/projectleider-utiliteitsbouw-2-posities-staatsbosbeheer/">Bekijk de opdracht en reageer</a></p>]]></description>
+      <zet:titel>Projectleider utiliteitsbouw (2 posities)</zet:titel><zet:organisatie>Staatsbosbeheer</zet:organisatie><zet:locatie>West-Nederland, projecten op locatie</zet:locatie><zet:uren>36</zet:uren><zet:vorm>Loondienst (detachering)</zet:vorm><zet:start>4 januari 2027</zet:start><zet:sluit>2026-12-04</zet:sluit><zet:datum>2026-11-13</zet:datum><zet:samenvatting>Twee ervaren projectleiders voor nieuwbouw en verbouw van kantoren van Staatsbosbeheer, waaronder een duurzaam modulair houtbouwconcept.</zet:samenvatting><zet:vakgebieden>projectleiding</zet:vakgebieden>
     </item>
     <item>
       <title>Toezichthouder kabels en leidingen bij Gemeente Soest</title>
@@ -22,6 +23,7 @@
       <pubDate>Fri, 13 Nov 2026 12:00:00 +0100</pubDate>
       <category>Projectleiding bouw en vastgoed</category>
       <description><![CDATA[<p><strong>Gemeente Soest</strong><br>Soest (Utrecht) · 36 uur · Loondienst (detachering)<br>Start: 30 november 2026<br>Reageer uiterlijk 27 november 2026</p><p>Proactieve toezichthouder op kabels, leidingen en graaf- en straatwerk in de openbare ruimte van Soest.</p><p><a href="https://dejuistezet.nl/opdrachten/toezichthouder-kabels-en-leidingen-gemeente-soest/">Bekijk de opdracht en reageer</a></p>]]></description>
+      <zet:titel>Toezichthouder kabels en leidingen</zet:titel><zet:organisatie>Gemeente Soest</zet:organisatie><zet:locatie>Soest (Utrecht)</zet:locatie><zet:uren>36</zet:uren><zet:vorm>Loondienst (detachering)</zet:vorm><zet:start>30 november 2026</zet:start><zet:sluit>2026-11-27</zet:sluit><zet:datum>2026-11-13</zet:datum><zet:samenvatting>Proactieve toezichthouder op kabels, leidingen en graaf- en straatwerk in de openbare ruimte van Soest.</zet:samenvatting><zet:vakgebieden>projectleiding</zet:vakgebieden>
     </item>
     <item>
       <title>Projectleider openbare ruimte bij Gemeente Huizen</title>
@@ -30,6 +32,7 @@
       <pubDate>Fri, 13 Nov 2026 12:00:00 +0100</pubDate>
       <category>Projectleiding bouw en vastgoed</category><category>Openbare ruimte en civiele techniek bij gemeenten</category>
       <description><![CDATA[<p><strong>Gemeente Huizen</strong><br>Huizen (Noord-Holland) · 32 uur · Loondienst (detachering)<br>Start: 1 december 2026<br>Reageer uiterlijk 25 november 2026</p><p>Leid de grote projecten in de openbare ruimte van Huizen, met de wijkrenovatie Stad en Lande als eerste opgave.</p><p><a href="https://dejuistezet.nl/opdrachten/projectleider-openbare-ruimte-gemeente-huizen/">Bekijk de opdracht en reageer</a></p>]]></description>
+      <zet:titel>Projectleider openbare ruimte</zet:titel><zet:organisatie>Gemeente Huizen</zet:organisatie><zet:locatie>Huizen (Noord-Holland)</zet:locatie><zet:uren>32</zet:uren><zet:vorm>Loondienst (detachering)</zet:vorm><zet:start>1 december 2026</zet:start><zet:sluit>2026-11-25</zet:sluit><zet:datum>2026-11-13</zet:datum><zet:samenvatting>Leid de grote projecten in de openbare ruimte van Huizen, met de wijkrenovatie Stad en Lande als eerste opgave.</zet:samenvatting><zet:vakgebieden>projectleiding,openbare-ruimte</zet:vakgebieden>
     </item>
     <item>
       <title>Projectleider civiele techniek bij Gemeente Vijfheerenlanden</title>
@@ -38,6 +41,7 @@
       <pubDate>Fri, 13 Nov 2026 12:00:00 +0100</pubDate>
       <category>Projectleiding bouw en vastgoed</category><category>Openbare ruimte en civiele techniek bij gemeenten</category>
       <description><![CDATA[<p><strong>Gemeente Vijfheerenlanden</strong><br>Vianen (Utrecht) · 12 uur · Zzp of loondienst<br>Start: 23 november 2026<br>Reageer uiterlijk 20 november 2026</p><p>Deeltijdopdracht van 12 uur per week: civieltechnische projecten in de openbare ruimte voorbereiden, aanbesteden en uitvoeren.</p><p><a href="https://dejuistezet.nl/opdrachten/projectleider-civiele-techniek-gemeente-vijfheerenlanden/">Bekijk de opdracht en reageer</a></p>]]></description>
+      <zet:titel>Projectleider civiele techniek</zet:titel><zet:organisatie>Gemeente Vijfheerenlanden</zet:organisatie><zet:locatie>Vianen (Utrecht)</zet:locatie><zet:uren>12</zet:uren><zet:vorm>Zzp of loondienst</zet:vorm><zet:start>23 november 2026</zet:start><zet:sluit>2026-11-20</zet:sluit><zet:datum>2026-11-13</zet:datum><zet:samenvatting>Deeltijdopdracht van 12 uur per week: civieltechnische projecten in de openbare ruimte voorbereiden, aanbesteden en uitvoeren.</zet:samenvatting><zet:vakgebieden>projectleiding,openbare-ruimte</zet:vakgebieden>
     </item>
     <item>
       <title>Technisch adviseur werktuigbouwkunde bij Rijksvastgoedbedrijf</title>
@@ -46,6 +50,7 @@
       <pubDate>Fri, 13 Nov 2026 12:00:00 +0100</pubDate>
       <category>Technisch beheer en onderhoud</category>
       <description><![CDATA[<p><strong>Rijksvastgoedbedrijf</strong><br>Arnhem (Gelderland), regio Oost · 36 uur · Loondienst (detachering)<br>Start: Zo snel mogelijk<br>Reageer uiterlijk 20 november 2026</p><p>Technisch geweten werktuigbouwkunde voor het beheer en onderhoud van rijksvastgoed in Gelderland en Flevoland.</p><p><a href="https://dejuistezet.nl/opdrachten/technisch-adviseur-werktuigbouwkunde-rijksvastgoedbedrijf/">Bekijk de opdracht en reageer</a></p>]]></description>
+      <zet:titel>Technisch adviseur werktuigbouwkunde</zet:titel><zet:organisatie>Rijksvastgoedbedrijf</zet:organisatie><zet:locatie>Arnhem (Gelderland), regio Oost</zet:locatie><zet:uren>36</zet:uren><zet:vorm>Loondienst (detachering)</zet:vorm><zet:start>Zo snel mogelijk</zet:start><zet:sluit>2026-11-20</zet:sluit><zet:datum>2026-11-13</zet:datum><zet:samenvatting>Technisch geweten werktuigbouwkunde voor het beheer en onderhoud van rijksvastgoed in Gelderland en Flevoland.</zet:samenvatting><zet:vakgebieden>technisch</zet:vakgebieden>
     </item>
     <item>
       <title>Jurist grondzaken bij Gemeente Amersfoort</title>
@@ -54,6 +59,7 @@
       <pubDate>Fri, 13 Nov 2026 12:00:00 +0100</pubDate>
       <category>Grondzaken en planeconomie</category><category>Vastgoedjuridisch en contracten</category>
       <description><![CDATA[<p><strong>Gemeente Amersfoort</strong><br>Amersfoort (Utrecht) · 36 uur · Loondienst (detachering)<br>Start: 1 december 2026<br>Reageer uiterlijk 18 november 2026</p><p>Juridische allrounder grond- en vastgoedzaken voor de projecten en gebiedsontwikkelingen van een groeiende stad met 1.000 woningen per jaar.</p><p><a href="https://dejuistezet.nl/opdrachten/jurist-grondzaken-gemeente-amersfoort/">Bekijk de opdracht en reageer</a></p>]]></description>
+      <zet:titel>Jurist grondzaken</zet:titel><zet:organisatie>Gemeente Amersfoort</zet:organisatie><zet:locatie>Amersfoort (Utrecht)</zet:locatie><zet:uren>36</zet:uren><zet:vorm>Loondienst (detachering)</zet:vorm><zet:start>1 december 2026</zet:start><zet:sluit>2026-11-18</zet:sluit><zet:datum>2026-11-13</zet:datum><zet:samenvatting>Juridische allrounder grond- en vastgoedzaken voor de projecten en gebiedsontwikkelingen van een groeiende stad met 1.000 woningen per jaar.</zet:samenvatting><zet:vakgebieden>grondzaken,juridisch</zet:vakgebieden>
     </item>
     <item>
       <title>Projectleider en adviseur transitie omgevingsplan bij Gemeente Heeze-Leende</title>
@@ -62,6 +68,7 @@
       <pubDate>Fri, 13 Nov 2026 12:00:00 +0100</pubDate>
       <category>Projectleiding bouw en vastgoed</category><category>Vastgoedjuridisch en contracten</category>
       <description><![CDATA[<p><strong>Gemeente Heeze-Leende</strong><br>Heeze (Noord-Brabant) · 36 uur · Zzp of loondienst<br>Start: Zo snel mogelijk<br>Reageer uiterlijk 17 november 2026</p><p>Regisseer de hele keten van het omgevingsplan van Heeze-Leende: beleid, regels, digitalisering en bestuurlijke besluitvorming in één sleutelrol.</p><p><a href="https://dejuistezet.nl/opdrachten/projectleider-en-adviseur-transitie-omgevingsplan-gemeente-heeze-leende/">Bekijk de opdracht en reageer</a></p>]]></description>
+      <zet:titel>Projectleider en adviseur transitie omgevingsplan</zet:titel><zet:organisatie>Gemeente Heeze-Leende</zet:organisatie><zet:locatie>Heeze (Noord-Brabant)</zet:locatie><zet:uren>36</zet:uren><zet:vorm>Zzp of loondienst</zet:vorm><zet:start>Zo snel mogelijk</zet:start><zet:sluit>2026-11-17</zet:sluit><zet:datum>2026-11-13</zet:datum><zet:samenvatting>Regisseer de hele keten van het omgevingsplan van Heeze-Leende: beleid, regels, digitalisering en bestuurlijke besluitvorming in één sleutelrol.</zet:samenvatting><zet:vakgebieden>projectleiding,juridisch</zet:vakgebieden>
     </item>
     <item>
       <title>Senior jurist ruimtelijke ontwikkeling bij Gemeente Heeze-Leende</title>
@@ -70,6 +77,7 @@
       <pubDate>Fri, 13 Nov 2026 12:00:00 +0100</pubDate>
       <category>Gebieds- en projectontwikkeling</category><category>Vastgoedjuridisch en contracten</category>
       <description><![CDATA[<p><strong>Gemeente Heeze-Leende</strong><br>Heeze (Noord-Brabant) · 36 uur · Zzp of loondienst<br>Start: Zo snel mogelijk<br>Reageer uiterlijk 17 november 2026</p><p>Senior jurist omgevingsrecht die complexe ruimtelijke initiatieven en procedures begeleidt en bestuur en management strategisch adviseert.</p><p><a href="https://dejuistezet.nl/opdrachten/senior-jurist-ruimtelijke-ontwikkeling-gemeente-heeze-leende/">Bekijk de opdracht en reageer</a></p>]]></description>
+      <zet:titel>Senior jurist ruimtelijke ontwikkeling</zet:titel><zet:organisatie>Gemeente Heeze-Leende</zet:organisatie><zet:locatie>Heeze (Noord-Brabant)</zet:locatie><zet:uren>36</zet:uren><zet:vorm>Zzp of loondienst</zet:vorm><zet:start>Zo snel mogelijk</zet:start><zet:sluit>2026-11-17</zet:sluit><zet:datum>2026-11-13</zet:datum><zet:samenvatting>Senior jurist omgevingsrecht die complexe ruimtelijke initiatieven en procedures begeleidt en bestuur en management strategisch adviseert.</zet:samenvatting><zet:vakgebieden>gebiedsontwikkeling,juridisch</zet:vakgebieden>
     </item>
     <item>
       <title>Jurist ruimtelijke planvorming bij Enexis</title>
@@ -78,6 +86,7 @@
       <pubDate>Fri, 13 Nov 2026 12:00:00 +0100</pubDate>
       <category>Vastgoedjuridisch en contracten</category>
       <description><![CDATA[<p><strong>Enexis</strong><br>Groningen (Groningen) · 40 uur · Loondienst (detachering)<br>Start: Zo snel mogelijk<br>Reageer uiterlijk 16 november 2026</p><p>Jurist omgevingsrecht die omgevingsplanwijzigingen begeleidt voor de uitbreiding van het energienetwerk in Noord-Nederland.</p><p><a href="https://dejuistezet.nl/opdrachten/jurist-ruimtelijke-planvorming-enexis/">Bekijk de opdracht en reageer</a></p>]]></description>
+      <zet:titel>Jurist ruimtelijke planvorming</zet:titel><zet:organisatie>Enexis</zet:organisatie><zet:locatie>Groningen (Groningen)</zet:locatie><zet:uren>40</zet:uren><zet:vorm>Loondienst (detachering)</zet:vorm><zet:start>Zo snel mogelijk</zet:start><zet:sluit>2026-11-16</zet:sluit><zet:datum>2026-11-13</zet:datum><zet:samenvatting>Jurist omgevingsrecht die omgevingsplanwijzigingen begeleidt voor de uitbreiding van het energienetwerk in Noord-Nederland.</zet:samenvatting><zet:vakgebieden>juridisch</zet:vakgebieden>
     </item>
     <item>
       <title>Senior beleidsadviseur ruimtelijke economie bij Gemeente Haaksbergen</title>
@@ -86,6 +95,7 @@
       <pubDate>Fri, 13 Nov 2026 12:00:00 +0100</pubDate>
       <category>Wonen, woningbouw en beleid</category>
       <description><![CDATA[<p><strong>Gemeente Haaksbergen</strong><br>Haaksbergen (Overijssel) · 20 uur · Loondienst (detachering)<br>Start: Zo snel mogelijk<br>Reageer uiterlijk 16 november 2026</p><p>Strategisch adviseur voor de ruimtelijk-economische groei van Haaksbergen: bedrijventerreinen, werklandschap, regionale programmering en Stepelerveld.</p><p><a href="https://dejuistezet.nl/opdrachten/senior-beleidsadviseur-ruimtelijke-economie-gemeente-haaksbergen/">Bekijk de opdracht en reageer</a></p>]]></description>
+      <zet:titel>Senior beleidsadviseur ruimtelijke economie</zet:titel><zet:organisatie>Gemeente Haaksbergen</zet:organisatie><zet:locatie>Haaksbergen (Overijssel)</zet:locatie><zet:uren>20</zet:uren><zet:vorm>Loondienst (detachering)</zet:vorm><zet:start>Zo snel mogelijk</zet:start><zet:sluit>2026-11-16</zet:sluit><zet:datum>2026-11-13</zet:datum><zet:samenvatting>Strategisch adviseur voor de ruimtelijk-economische groei van Haaksbergen: bedrijventerreinen, werklandschap, regionale programmering en Stepelerveld.</zet:samenvatting><zet:vakgebieden>wonen</zet:vakgebieden>
     </item>
     <item>
       <title>Gebiedsontwikkelaar Spoorzone bij Gemeente Tilburg</title>
@@ -94,6 +104,7 @@
       <pubDate>Fri, 13 Nov 2026 12:00:00 +0100</pubDate>
       <category>Gebieds- en projectontwikkeling</category>
       <description><![CDATA[<p><strong>Gemeente Tilburg</strong><br>Tilburg (Noord-Brabant) · 28 uur · Zzp of loondienst<br>Start: 23 november 2026<br>Reageer uiterlijk 13 november 2026</p><p>Gemeentelijk boegbeeld van de Spoorzone Tilburg: stuur de gebiedsontwikkeling, de projectleiders en de samenwerking met marktpartijen en de stad.</p><p><a href="https://dejuistezet.nl/opdrachten/gebiedsontwikkelaar-spoorzone-gemeente-tilburg/">Bekijk de opdracht en reageer</a></p>]]></description>
+      <zet:titel>Gebiedsontwikkelaar Spoorzone</zet:titel><zet:organisatie>Gemeente Tilburg</zet:organisatie><zet:locatie>Tilburg (Noord-Brabant)</zet:locatie><zet:uren>28</zet:uren><zet:vorm>Zzp of loondienst</zet:vorm><zet:start>23 november 2026</zet:start><zet:sluit>2026-11-13</zet:sluit><zet:datum>2026-11-13</zet:datum><zet:samenvatting>Gemeentelijk boegbeeld van de Spoorzone Tilburg: stuur de gebiedsontwikkeling, de projectleiders en de samenwerking met marktpartijen en de stad.</zet:samenvatting><zet:vakgebieden>gebiedsontwikkeling</zet:vakgebieden>
     </item>
     <item>
       <title>Interim teammanager dagelijks onderhoud bij Beveland Wonen</title>
@@ -102,6 +113,7 @@
       <pubDate>Thu, 12 Nov 2026 12:00:00 +0100</pubDate>
       <category>Technisch beheer en onderhoud</category>
       <description><![CDATA[<p><strong>Beveland Wonen</strong><br>Goes (Zeeland) · 36 uur · Loondienst (detachering)<br>Start: 3 januari 2027<br>Reageer uiterlijk 27 november 2026</p><p>Geef als interim teammanager leiding aan het team dagelijks onderhoud van Beveland Wonen, inclusief de interne aannemerij, vastgoedbeheerders en opzichter.</p><p><a href="https://dejuistezet.nl/opdrachten/interim-teammanager-dagelijks-onderhoud-beveland-wonen/">Bekijk de opdracht en reageer</a></p>]]></description>
+      <zet:titel>Interim teammanager dagelijks onderhoud</zet:titel><zet:organisatie>Beveland Wonen</zet:organisatie><zet:locatie>Goes (Zeeland)</zet:locatie><zet:uren>36</zet:uren><zet:vorm>Loondienst (detachering)</zet:vorm><zet:start>3 januari 2027</zet:start><zet:sluit>2026-11-27</zet:sluit><zet:datum>2026-11-12</zet:datum><zet:samenvatting>Geef als interim teammanager leiding aan het team dagelijks onderhoud van Beveland Wonen, inclusief de interne aannemerij, vastgoedbeheerders en opzichter.</zet:samenvatting><zet:vakgebieden>technisch</zet:vakgebieden>
     </item>
     <item>
       <title>Portefeuillemanager onbebouwd vastgoed en sport bij Gemeente Maastricht</title>
@@ -110,6 +122,7 @@
       <pubDate>Thu, 12 Nov 2026 12:00:00 +0100</pubDate>
       <category>Asset- en portefeuillemanagement</category>
       <description><![CDATA[<p><strong>Gemeente Maastricht</strong><br>Maastricht (Limburg) · 36 uur · Loondienst (detachering)<br>Start: 23 november 2026<br>Reageer uiterlijk 26 november 2026</p><p>Beheer en exploiteer de portefeuille onbebouwd vastgoed en sport van Maastricht, van erfpacht en pacht tot stadion en sporthallen.</p><p><a href="https://dejuistezet.nl/opdrachten/portefeuillemanager-onbebouwd-vastgoed-en-sport-gemeente-maastricht/">Bekijk de opdracht en reageer</a></p>]]></description>
+      <zet:titel>Portefeuillemanager onbebouwd vastgoed en sport</zet:titel><zet:organisatie>Gemeente Maastricht</zet:organisatie><zet:locatie>Maastricht (Limburg)</zet:locatie><zet:uren>36</zet:uren><zet:vorm>Loondienst (detachering)</zet:vorm><zet:start>23 november 2026</zet:start><zet:sluit>2026-11-26</zet:sluit><zet:datum>2026-11-12</zet:datum><zet:samenvatting>Beheer en exploiteer de portefeuille onbebouwd vastgoed en sport van Maastricht, van erfpacht en pacht tot stadion en sporthallen.</zet:samenvatting><zet:vakgebieden>asset</zet:vakgebieden>
     </item>
     <item>
       <title>Medior projectmanager gebiedsontwikkeling Rijnpark bij Gemeente Arnhem</title>
@@ -118,6 +131,7 @@
       <pubDate>Thu, 12 Nov 2026 12:00:00 +0100</pubDate>
       <category>Projectleiding bouw en vastgoed</category><category>Gebieds- en projectontwikkeling</category>
       <description><![CDATA[<p><strong>Gemeente Arnhem</strong><br>Arnhem (Gelderland) · 32 uur · Loondienst (detachering)<br>Start: 14 december 2026<br>Reageer uiterlijk 24 november 2026</p><p>Ondersteun als medior projectmanager de senior projectmanager van Rijnpark fase 2 in de Spoorzone Arnhem-Oost, een grote binnenstedelijke gebiedsontwikkeling.</p><p><a href="https://dejuistezet.nl/opdrachten/medior-projectmanager-gebiedsontwikkeling-rijnpark-gemeente-arnhem/">Bekijk de opdracht en reageer</a></p>]]></description>
+      <zet:titel>Medior projectmanager gebiedsontwikkeling Rijnpark</zet:titel><zet:organisatie>Gemeente Arnhem</zet:organisatie><zet:locatie>Arnhem (Gelderland)</zet:locatie><zet:uren>32</zet:uren><zet:vorm>Loondienst (detachering)</zet:vorm><zet:start>14 december 2026</zet:start><zet:sluit>2026-11-24</zet:sluit><zet:datum>2026-11-12</zet:datum><zet:samenvatting>Ondersteun als medior projectmanager de senior projectmanager van Rijnpark fase 2 in de Spoorzone Arnhem-Oost, een grote binnenstedelijke gebiedsontwikkeling.</zet:samenvatting><zet:vakgebieden>projectleiding,gebiedsontwikkeling</zet:vakgebieden>
     </item>
     <item>
       <title>Projectdirecteur gebiedsontwikkeling Stationskwartier bij Gemeente Culemborg</title>
@@ -126,6 +140,7 @@
       <pubDate>Thu, 12 Nov 2026 12:00:00 +0100</pubDate>
       <category>Gebieds- en projectontwikkeling</category>
       <description><![CDATA[<p><strong>Gemeente Culemborg</strong><br>Culemborg (Gelderland) · 24 uur · Zzp of loondienst<br>Start: 1 december 2026<br>Reageer uiterlijk 24 november 2026</p><p>Geef als projectdirecteur vorm aan de ontwikkeling van circa 1.900 woningen in het Stationskwartier van Culemborg en zet de uitvoeringsorganisatie op.</p><p><a href="https://dejuistezet.nl/opdrachten/projectdirecteur-gebiedsontwikkeling-stationskwartier-gemeente-culemborg/">Bekijk de opdracht en reageer</a></p>]]></description>
+      <zet:titel>Projectdirecteur gebiedsontwikkeling Stationskwartier</zet:titel><zet:organisatie>Gemeente Culemborg</zet:organisatie><zet:locatie>Culemborg (Gelderland)</zet:locatie><zet:uren>24</zet:uren><zet:vorm>Zzp of loondienst</zet:vorm><zet:start>1 december 2026</zet:start><zet:sluit>2026-11-24</zet:sluit><zet:datum>2026-11-12</zet:datum><zet:samenvatting>Geef als projectdirecteur vorm aan de ontwikkeling van circa 1.900 woningen in het Stationskwartier van Culemborg en zet de uitvoeringsorganisatie op.</zet:samenvatting><zet:vakgebieden>gebiedsontwikkeling</zet:vakgebieden>
     </item>
     <item>
       <title>Projectmanager gebiedsontwikkeling en woningbouw bij Gemeente Katwijk</title>
@@ -134,6 +149,7 @@
       <pubDate>Thu, 12 Nov 2026 12:00:00 +0100</pubDate>
       <category>Projectleiding bouw en vastgoed</category><category>Gebieds- en projectontwikkeling</category><category>Wonen, woningbouw en beleid</category>
       <description><![CDATA[<p><strong>Gemeente Katwijk</strong><br>Katwijk (Zuid-Holland) · 28 tot 32 uur · Loondienst (detachering)<br>Start: 24 november 2026<br>Reageer uiterlijk 23 november 2026</p><p>Leid gebiedsontwikkelingen in Katwijk, zoals het havenscharnier en de Hoornes, van initiatief tot realisatie, inclusief participatie en besluitvorming.</p><p><a href="https://dejuistezet.nl/opdrachten/projectmanager-gebiedsontwikkeling-en-woningbouw-gemeente-katwijk/">Bekijk de opdracht en reageer</a></p>]]></description>
+      <zet:titel>Projectmanager gebiedsontwikkeling en woningbouw</zet:titel><zet:organisatie>Gemeente Katwijk</zet:organisatie><zet:locatie>Katwijk (Zuid-Holland)</zet:locatie><zet:uren>28 tot 32</zet:uren><zet:vorm>Loondienst (detachering)</zet:vorm><zet:start>24 november 2026</zet:start><zet:sluit>2026-11-23</zet:sluit><zet:datum>2026-11-12</zet:datum><zet:samenvatting>Leid gebiedsontwikkelingen in Katwijk, zoals het havenscharnier en de Hoornes, van initiatief tot realisatie, inclusief participatie en besluitvorming.</zet:samenvatting><zet:vakgebieden>projectleiding,gebiedsontwikkeling,wonen</zet:vakgebieden>
     </item>
     <item>
       <title>Toezichthouder en directievoerder infrastructuur haven bij Havenbedrijf Rotterdam</title>
@@ -142,6 +158,7 @@
       <pubDate>Thu, 12 Nov 2026 12:00:00 +0100</pubDate>
       <category>Projectleiding bouw en vastgoed</category><category>Openbare ruimte en civiele techniek bij gemeenten</category>
       <description><![CDATA[<p><strong>Havenbedrijf Rotterdam</strong><br>Rotterdam (Zuid-Holland), hybride · 24 tot 32 uur · Loondienst (detachering)<br>Start: 4 januari 2027<br>Reageer uiterlijk 23 november 2026</p><p>Houd toezicht en voer directie volgens de UAV op werkzaamheden aan wegen, openbare verlichting en wegkantsystemen in de Rotterdamse haven.</p><p><a href="https://dejuistezet.nl/opdrachten/toezichthouder-en-directievoerder-infrastructuur-haven-havenbedrijf-rotterdam/">Bekijk de opdracht en reageer</a></p>]]></description>
+      <zet:titel>Toezichthouder en directievoerder infrastructuur haven</zet:titel><zet:organisatie>Havenbedrijf Rotterdam</zet:organisatie><zet:locatie>Rotterdam (Zuid-Holland), hybride</zet:locatie><zet:uren>24 tot 32</zet:uren><zet:vorm>Loondienst (detachering)</zet:vorm><zet:start>4 januari 2027</zet:start><zet:sluit>2026-11-23</zet:sluit><zet:datum>2026-11-12</zet:datum><zet:samenvatting>Houd toezicht en voer directie volgens de UAV op werkzaamheden aan wegen, openbare verlichting en wegkantsystemen in de Rotterdamse haven.</zet:samenvatting><zet:vakgebieden>projectleiding,openbare-ruimte</zet:vakgebieden>
     </item>
     <item>
       <title>Senior projectleider civiele techniek openbare ruimte bij BEL Combinatie</title>
@@ -150,6 +167,7 @@
       <pubDate>Thu, 12 Nov 2026 12:00:00 +0100</pubDate>
       <category>Projectleiding bouw en vastgoed</category><category>Openbare ruimte en civiele techniek bij gemeenten</category>
       <description><![CDATA[<p><strong>BEL Combinatie</strong><br>Eemnes (Utrecht), hybride · 36 uur · Zzp of loondienst<br>Start: 23 november 2026<br>Reageer uiterlijk 20 november 2026</p><p>Leid civiele projecten in de openbare ruimte van Blaricum, Eemnes en Laren van voorlopig ontwerp tot en met uitvoering en stuur adviseurs en aannemers aan.</p><p><a href="https://dejuistezet.nl/opdrachten/senior-projectleider-civiele-techniek-openbare-ruimte-bel-combinatie/">Bekijk de opdracht en reageer</a></p>]]></description>
+      <zet:titel>Senior projectleider civiele techniek openbare ruimte</zet:titel><zet:organisatie>BEL Combinatie</zet:organisatie><zet:locatie>Eemnes (Utrecht), hybride</zet:locatie><zet:uren>36</zet:uren><zet:vorm>Zzp of loondienst</zet:vorm><zet:start>23 november 2026</zet:start><zet:sluit>2026-11-20</zet:sluit><zet:datum>2026-11-12</zet:datum><zet:samenvatting>Leid civiele projecten in de openbare ruimte van Blaricum, Eemnes en Laren van voorlopig ontwerp tot en met uitvoering en stuur adviseurs en aannemers aan.</zet:samenvatting><zet:vakgebieden>projectleiding,openbare-ruimte</zet:vakgebieden>
     </item>
     <item>
       <title>Senior WOZ-taxateur bij Gemeente Amsterdam</title>
@@ -158,6 +176,7 @@
       <pubDate>Thu, 12 Nov 2026 12:00:00 +0100</pubDate>
       <category>Asset- en portefeuillemanagement</category>
       <description><![CDATA[<p><strong>Gemeente Amsterdam</strong><br>Amsterdam (Noord-Holland) · 36 uur · Loondienst (detachering)<br>Start: 1 januari 2027<br>Reageer uiterlijk 19 november 2026</p><p>Voer zelfstandig WOZ-taxaties en marktanalyses uit voor ruim 500.000 objecten in Amsterdam, verbeter rekenmodellen en behandel bezwaar en beroep.</p><p><a href="https://dejuistezet.nl/opdrachten/senior-woz-taxateur-gemeente-amsterdam/">Bekijk de opdracht en reageer</a></p>]]></description>
+      <zet:titel>Senior WOZ-taxateur</zet:titel><zet:organisatie>Gemeente Amsterdam</zet:organisatie><zet:locatie>Amsterdam (Noord-Holland)</zet:locatie><zet:uren>36</zet:uren><zet:vorm>Loondienst (detachering)</zet:vorm><zet:start>1 januari 2027</zet:start><zet:sluit>2026-11-19</zet:sluit><zet:datum>2026-11-12</zet:datum><zet:samenvatting>Voer zelfstandig WOZ-taxaties en marktanalyses uit voor ruim 500.000 objecten in Amsterdam, verbeter rekenmodellen en behandel bezwaar en beroep.</zet:samenvatting><zet:vakgebieden>asset</zet:vakgebieden>
     </item>
     <item>
       <title>Projectleider elektrotechniek openbare ruimte bij Gemeente Leeuwarden</title>
@@ -166,6 +185,7 @@
       <pubDate>Thu, 12 Nov 2026 12:00:00 +0100</pubDate>
       <category>Projectleiding bouw en vastgoed</category><category>Technisch beheer en onderhoud</category><category>Openbare ruimte en civiele techniek bij gemeenten</category>
       <description><![CDATA[<p><strong>Gemeente Leeuwarden</strong><br>Leeuwarden (Friesland) · 24 tot 36 uur · Loondienst (detachering)<br>Start: 23 november 2026<br>Reageer uiterlijk 18 november 2026</p><p>Leid projecten rond openbare verlichting, verkeersregelinstallaties en andere installaties in de openbare ruimte van Leeuwarden, van initiatief tot oplevering.</p><p><a href="https://dejuistezet.nl/opdrachten/projectleider-elektrotechniek-openbare-ruimte-gemeente-leeuwarden/">Bekijk de opdracht en reageer</a></p>]]></description>
+      <zet:titel>Projectleider elektrotechniek openbare ruimte</zet:titel><zet:organisatie>Gemeente Leeuwarden</zet:organisatie><zet:locatie>Leeuwarden (Friesland)</zet:locatie><zet:uren>24 tot 36</zet:uren><zet:vorm>Loondienst (detachering)</zet:vorm><zet:start>23 november 2026</zet:start><zet:sluit>2026-11-18</zet:sluit><zet:datum>2026-11-12</zet:datum><zet:samenvatting>Leid projecten rond openbare verlichting, verkeersregelinstallaties en andere installaties in de openbare ruimte van Leeuwarden, van initiatief tot oplevering.</zet:samenvatting><zet:vakgebieden>projectleiding,technisch,openbare-ruimte</zet:vakgebieden>
     </item>
     <item>
       <title>Projectleider huisvestingsprojecten kantoor- en uitvoeringslocaties bij Gemeente Rotterdam</title>
@@ -174,6 +194,7 @@
       <pubDate>Thu, 12 Nov 2026 12:00:00 +0100</pubDate>
       <category>Projectleiding bouw en vastgoed</category><category>Huisvesting en facilitair</category>
       <description><![CDATA[<p><strong>Gemeente Rotterdam</strong><br>Rotterdam (Zuid-Holland) · 36 uur · Loondienst (detachering)<br>Start: 14 december 2026<br>Reageer uiterlijk 18 november 2026</p><p>Leid huisvestingsprojecten van de gemeente Rotterdam: verbouwing van een uitvoeringslocatie in Hoek van Holland en de wederoplevering van grote kantoorlocaties.</p><p><a href="https://dejuistezet.nl/opdrachten/projectleider-huisvestingsprojecten-kantoor-en-uitvoeringslocaties-gemeente-rotterdam/">Bekijk de opdracht en reageer</a></p>]]></description>
+      <zet:titel>Projectleider huisvestingsprojecten kantoor- en uitvoeringslocaties</zet:titel><zet:organisatie>Gemeente Rotterdam</zet:organisatie><zet:locatie>Rotterdam (Zuid-Holland)</zet:locatie><zet:uren>36</zet:uren><zet:vorm>Loondienst (detachering)</zet:vorm><zet:start>14 december 2026</zet:start><zet:sluit>2026-11-18</zet:sluit><zet:datum>2026-11-12</zet:datum><zet:samenvatting>Leid huisvestingsprojecten van de gemeente Rotterdam: verbouwing van een uitvoeringslocatie in Hoek van Holland en de wederoplevering van grote kantoorlocaties.</zet:samenvatting><zet:vakgebieden>projectleiding,huisvesting</zet:vakgebieden>
     </item>
     <item>
       <title>Interim teammanager ruimtelijke projecten bij Gemeente Helmond</title>
@@ -182,6 +203,7 @@
       <pubDate>Thu, 12 Nov 2026 12:00:00 +0100</pubDate>
       <category>Gebieds- en projectontwikkeling</category>
       <description><![CDATA[<p><strong>Gemeente Helmond</strong><br>Helmond (Noord-Brabant) · 36 uur · Zzp of loondienst<br>Start: 1 december 2026<br>Reageer uiterlijk 17 november 2026</p><p>Geef tijdelijk leiding aan het team Projecten van Helmond, zo&#x27;n 35 projectmanagers die de ruimtelijk-fysieke projecten van de stad realiseren.</p><p><a href="https://dejuistezet.nl/opdrachten/interim-teammanager-ruimtelijke-projecten-gemeente-helmond/">Bekijk de opdracht en reageer</a></p>]]></description>
+      <zet:titel>Interim teammanager ruimtelijke projecten</zet:titel><zet:organisatie>Gemeente Helmond</zet:organisatie><zet:locatie>Helmond (Noord-Brabant)</zet:locatie><zet:uren>36</zet:uren><zet:vorm>Zzp of loondienst</zet:vorm><zet:start>1 december 2026</zet:start><zet:sluit>2026-11-17</zet:sluit><zet:datum>2026-11-12</zet:datum><zet:samenvatting>Geef tijdelijk leiding aan het team Projecten van Helmond, zo&#x27;n 35 projectmanagers die de ruimtelijk-fysieke projecten van de stad realiseren.</zet:samenvatting><zet:vakgebieden>gebiedsontwikkeling</zet:vakgebieden>
     </item>
     <item>
       <title>Projectcoördinator bouw- en vastgoedprojecten bij Gemeente Groningen</title>
@@ -190,6 +212,7 @@
       <pubDate>Thu, 12 Nov 2026 12:00:00 +0100</pubDate>
       <category>Projectleiding bouw en vastgoed</category>
       <description><![CDATA[<p><strong>Gemeente Groningen</strong><br>Groningen (Groningen) · 24 uur · Loondienst (detachering)<br>Start: 1 december 2026<br>Reageer uiterlijk 17 november 2026</p><p>Ondersteun de projectmanagers van het Vastgoedbedrijf Groningen bij grote bouw- en vastgoedprojecten, van programma van eisen tot besluitvorming.</p><p><a href="https://dejuistezet.nl/opdrachten/projectcoordinator-bouw-en-vastgoedprojecten-gemeente-groningen/">Bekijk de opdracht en reageer</a></p>]]></description>
+      <zet:titel>Projectcoördinator bouw- en vastgoedprojecten</zet:titel><zet:organisatie>Gemeente Groningen</zet:organisatie><zet:locatie>Groningen (Groningen)</zet:locatie><zet:uren>24</zet:uren><zet:vorm>Loondienst (detachering)</zet:vorm><zet:start>1 december 2026</zet:start><zet:sluit>2026-11-17</zet:sluit><zet:datum>2026-11-12</zet:datum><zet:samenvatting>Ondersteun de projectmanagers van het Vastgoedbedrijf Groningen bij grote bouw- en vastgoedprojecten, van programma van eisen tot besluitvorming.</zet:samenvatting><zet:vakgebieden>projectleiding</zet:vakgebieden>
     </item>
     <item>
       <title>Assetmanager maatschappelijk vastgoed bij Gemeente Utrecht</title>
@@ -198,6 +221,7 @@
       <pubDate>Thu, 12 Nov 2026 12:00:00 +0100</pubDate>
       <category>Asset- en portefeuillemanagement</category>
       <description><![CDATA[<p><strong>Gemeente Utrecht</strong><br>Utrecht (Utrecht) · 32 tot 36 uur · Loondienst (detachering)<br>Start: Zo snel mogelijk<br>Reageer uiterlijk 16 november 2026</p><p>Vervul de eigenaarsrol voor een deel van de maatschappelijke vastgoedportefeuille van Utrecht: scholen, buurthuizen en sportaccommodaties.</p><p><a href="https://dejuistezet.nl/opdrachten/assetmanager-maatschappelijk-vastgoed-gemeente-utrecht/">Bekijk de opdracht en reageer</a></p>]]></description>
+      <zet:titel>Assetmanager maatschappelijk vastgoed</zet:titel><zet:organisatie>Gemeente Utrecht</zet:organisatie><zet:locatie>Utrecht (Utrecht)</zet:locatie><zet:uren>32 tot 36</zet:uren><zet:vorm>Loondienst (detachering)</zet:vorm><zet:start>Zo snel mogelijk</zet:start><zet:sluit>2026-11-16</zet:sluit><zet:datum>2026-11-12</zet:datum><zet:samenvatting>Vervul de eigenaarsrol voor een deel van de maatschappelijke vastgoedportefeuille van Utrecht: scholen, buurthuizen en sportaccommodaties.</zet:samenvatting><zet:vakgebieden>asset</zet:vakgebieden>
     </item>
     <item>
       <title>Projectcoördinator programma strategisch vastgoed bij Hogeschool Utrecht</title>
@@ -206,6 +230,7 @@
       <pubDate>Thu, 12 Nov 2026 12:00:00 +0100</pubDate>
       <category>Projectleiding bouw en vastgoed</category><category>Asset- en portefeuillemanagement</category>
       <description><![CDATA[<p><strong>Hogeschool Utrecht</strong><br>Utrecht (Utrecht) · 24 uur · Loondienst (detachering)<br>Start: 1 december 2026<br>Reageer uiterlijk 16 november 2026</p><p>Breng structuur in het programma dat de gebouwen van Hogeschool Utrecht verduurzaamt: planning, voortgang, administratie en communicatie.</p><p><a href="https://dejuistezet.nl/opdrachten/projectcoordinator-programma-strategisch-vastgoed-hogeschool-utrecht/">Bekijk de opdracht en reageer</a></p>]]></description>
+      <zet:titel>Projectcoördinator programma strategisch vastgoed</zet:titel><zet:organisatie>Hogeschool Utrecht</zet:organisatie><zet:locatie>Utrecht (Utrecht)</zet:locatie><zet:uren>24</zet:uren><zet:vorm>Loondienst (detachering)</zet:vorm><zet:start>1 december 2026</zet:start><zet:sluit>2026-11-16</zet:sluit><zet:datum>2026-11-12</zet:datum><zet:samenvatting>Breng structuur in het programma dat de gebouwen van Hogeschool Utrecht verduurzaamt: planning, voortgang, administratie en communicatie.</zet:samenvatting><zet:vakgebieden>projectleiding,asset</zet:vakgebieden>
     </item>
     <item>
       <title>Senior projectmanager infra verleggen stamriool stationsgebied bij Gemeente Eindhoven</title>
@@ -214,6 +239,7 @@
       <pubDate>Thu, 12 Nov 2026 12:00:00 +0100</pubDate>
       <category>Projectleiding bouw en vastgoed</category><category>Openbare ruimte en civiele techniek bij gemeenten</category>
       <description><![CDATA[<p><strong>Gemeente Eindhoven</strong><br>Eindhoven (Noord-Brabant) · 36 uur · Zzp of loondienst<br>Start: 29 november 2026<br>Reageer uiterlijk 13 november 2026</p><p>Leid het verleggen van het stamriool in het stationsgebied van Eindhoven, de ingreep die ruimte maakt voor een ondergronds busstation en duizenden woningen.</p><p><a href="https://dejuistezet.nl/opdrachten/senior-projectmanager-infra-verleggen-stamriool-stationsgebied-gemeente-eindhoven/">Bekijk de opdracht en reageer</a></p>]]></description>
+      <zet:titel>Senior projectmanager infra verleggen stamriool stationsgebied</zet:titel><zet:organisatie>Gemeente Eindhoven</zet:organisatie><zet:locatie>Eindhoven (Noord-Brabant)</zet:locatie><zet:uren>36</zet:uren><zet:vorm>Zzp of loondienst</zet:vorm><zet:start>29 november 2026</zet:start><zet:sluit>2026-11-13</zet:sluit><zet:datum>2026-11-12</zet:datum><zet:samenvatting>Leid het verleggen van het stamriool in het stationsgebied van Eindhoven, de ingreep die ruimte maakt voor een ondergronds busstation en duizenden woningen.</zet:samenvatting><zet:vakgebieden>projectleiding,openbare-ruimte</zet:vakgebieden>
     </item>
     <item>
       <title>Projectleider civiele reconstructieprojecten bij Gemeente Waalwijk</title>
@@ -222,6 +248,7 @@
       <pubDate>Wed, 11 Nov 2026 12:00:00 +0100</pubDate>
       <category>Projectleiding bouw en vastgoed</category><category>Openbare ruimte en civiele techniek bij gemeenten</category>
       <description><![CDATA[<p><strong>Gemeente Waalwijk</strong><br>Waalwijk (Noord-Brabant) · 6 tot 12 uur · Zzp of loondienst<br>Start: 4 januari 2027<br>Reageer uiterlijk 3 december 2026</p><p>Leid in deeltijd twee integrale reconstructies in Waspik en Sprang-Capelle, van schetsontwerp tot aanbesteding en start uitvoering.</p><p><a href="https://dejuistezet.nl/opdrachten/projectleider-civiele-reconstructieprojecten-gemeente-waalwijk/">Bekijk de opdracht en reageer</a></p>]]></description>
+      <zet:titel>Projectleider civiele reconstructieprojecten</zet:titel><zet:organisatie>Gemeente Waalwijk</zet:organisatie><zet:locatie>Waalwijk (Noord-Brabant)</zet:locatie><zet:uren>6 tot 12</zet:uren><zet:vorm>Zzp of loondienst</zet:vorm><zet:start>4 januari 2027</zet:start><zet:sluit>2026-12-03</zet:sluit><zet:datum>2026-11-11</zet:datum><zet:samenvatting>Leid in deeltijd twee integrale reconstructies in Waspik en Sprang-Capelle, van schetsontwerp tot aanbesteding en start uitvoering.</zet:samenvatting><zet:vakgebieden>projectleiding,openbare-ruimte</zet:vakgebieden>
     </item>
     <item>
       <title>Senior projectmanager nieuwbouw faculteit Diergeneeskunde bij Universiteit Utrecht</title>
@@ -230,6 +257,7 @@
       <pubDate>Wed, 11 Nov 2026 12:00:00 +0100</pubDate>
       <category>Projectleiding bouw en vastgoed</category>
       <description><![CDATA[<p><strong>Universiteit Utrecht</strong><br>Utrecht (Utrecht) · 24 uur · Loondienst (detachering)<br>Start: 4 januari 2027<br>Reageer uiterlijk 27 november 2026</p><p>Stuur de DO-fase aan van een nieuwbouw van circa 30.000 m2 met onderwijs, kantoren en laboratoria op het Utrecht Science Park.</p><p><a href="https://dejuistezet.nl/opdrachten/senior-projectmanager-nieuwbouw-faculteit-diergeneeskunde-universiteit-utrecht/">Bekijk de opdracht en reageer</a></p>]]></description>
+      <zet:titel>Senior projectmanager nieuwbouw faculteit Diergeneeskunde</zet:titel><zet:organisatie>Universiteit Utrecht</zet:organisatie><zet:locatie>Utrecht (Utrecht)</zet:locatie><zet:uren>24</zet:uren><zet:vorm>Loondienst (detachering)</zet:vorm><zet:start>4 januari 2027</zet:start><zet:sluit>2026-11-27</zet:sluit><zet:datum>2026-11-11</zet:datum><zet:samenvatting>Stuur de DO-fase aan van een nieuwbouw van circa 30.000 m2 met onderwijs, kantoren en laboratoria op het Utrecht Science Park.</zet:samenvatting><zet:vakgebieden>projectleiding</zet:vakgebieden>
     </item>
     <item>
       <title>Projectleider transitie opvang en sociale woningbouw bij Gemeente Beuningen</title>
@@ -238,6 +266,7 @@
       <pubDate>Wed, 11 Nov 2026 12:00:00 +0100</pubDate>
       <category>Projectleiding bouw en vastgoed</category><category>Wonen, woningbouw en beleid</category>
       <description><![CDATA[<p><strong>Gemeente Beuningen</strong><br>Beuningen (Gelderland) · 24 uur · Zzp of loondienst<br>Start: 4 januari 2027<br>Reageer uiterlijk 26 november 2026</p><p>Leid in Beuningen de verhuizing van Oekraïense ontheemden naar nieuwe woonvoorzieningen en de realisatie van circa 100 extra sociale huurwoningen.</p><p><a href="https://dejuistezet.nl/opdrachten/projectleider-transitie-opvang-en-sociale-woningbouw-gemeente-beuningen/">Bekijk de opdracht en reageer</a></p>]]></description>
+      <zet:titel>Projectleider transitie opvang en sociale woningbouw</zet:titel><zet:organisatie>Gemeente Beuningen</zet:organisatie><zet:locatie>Beuningen (Gelderland)</zet:locatie><zet:uren>24</zet:uren><zet:vorm>Zzp of loondienst</zet:vorm><zet:start>4 januari 2027</zet:start><zet:sluit>2026-11-26</zet:sluit><zet:datum>2026-11-11</zet:datum><zet:samenvatting>Leid in Beuningen de verhuizing van Oekraïense ontheemden naar nieuwe woonvoorzieningen en de realisatie van circa 100 extra sociale huurwoningen.</zet:samenvatting><zet:vakgebieden>projectleiding,wonen</zet:vakgebieden>
     </item>
     <item>
       <title>Allround beleidsadviseur wonen bij Gemeente Barneveld</title>
@@ -246,6 +275,7 @@
       <pubDate>Wed, 11 Nov 2026 12:00:00 +0100</pubDate>
       <category>Wonen, woningbouw en beleid</category>
       <description><![CDATA[<p><strong>Gemeente Barneveld</strong><br>Barneveld (Gelderland) · 32 tot 36 uur · Loondienst (detachering)<br>Start: 26 november 2026<br>Reageer uiterlijk 25 november 2026</p><p>Versterk tijdelijk het woonbeleid van Barneveld: adviseer over woningbouwinitiatieven, bijzondere doelgroepen en bestuurlijke voorstellen.</p><p><a href="https://dejuistezet.nl/opdrachten/allround-beleidsadviseur-wonen-gemeente-barneveld/">Bekijk de opdracht en reageer</a></p>]]></description>
+      <zet:titel>Allround beleidsadviseur wonen</zet:titel><zet:organisatie>Gemeente Barneveld</zet:organisatie><zet:locatie>Barneveld (Gelderland)</zet:locatie><zet:uren>32 tot 36</zet:uren><zet:vorm>Loondienst (detachering)</zet:vorm><zet:start>26 november 2026</zet:start><zet:sluit>2026-11-25</zet:sluit><zet:datum>2026-11-11</zet:datum><zet:samenvatting>Versterk tijdelijk het woonbeleid van Barneveld: adviseer over woningbouwinitiatieven, bijzondere doelgroepen en bestuurlijke voorstellen.</zet:samenvatting><zet:vakgebieden>wonen</zet:vakgebieden>
     </item>
     <item>
       <title>Gemeentelijk projectleider nieuwbouw vmbo-school bij Gemeente Druten</title>
@@ -254,6 +284,7 @@
       <pubDate>Wed, 11 Nov 2026 12:00:00 +0100</pubDate>
       <category>Projectleiding bouw en vastgoed</category>
       <description><![CDATA[<p><strong>Gemeente Druten</strong><br>Druten (Gelderland) · 16 uur · Zzp of loondienst<br>Start: 4 januari 2027<br>Reageer uiterlijk 25 november 2026</p><p>Coördineer namens Druten de gemeentelijke voorbereiding van de nieuwbouw van een vmbo-school: locatieonderzoek, parkeren, grond, sloop en besluitvorming.</p><p><a href="https://dejuistezet.nl/opdrachten/gemeentelijk-projectleider-nieuwbouw-vmbo-school-gemeente-druten/">Bekijk de opdracht en reageer</a></p>]]></description>
+      <zet:titel>Gemeentelijk projectleider nieuwbouw vmbo-school</zet:titel><zet:organisatie>Gemeente Druten</zet:organisatie><zet:locatie>Druten (Gelderland)</zet:locatie><zet:uren>16</zet:uren><zet:vorm>Zzp of loondienst</zet:vorm><zet:start>4 januari 2027</zet:start><zet:sluit>2026-11-25</zet:sluit><zet:datum>2026-11-11</zet:datum><zet:samenvatting>Coördineer namens Druten de gemeentelijke voorbereiding van de nieuwbouw van een vmbo-school: locatieonderzoek, parkeren, grond, sloop en besluitvorming.</zet:samenvatting><zet:vakgebieden>projectleiding</zet:vakgebieden>
     </item>
     <item>
       <title>Civieltechnisch projectleider openbare ruimte bij Gemeente Berg en Dal</title>
@@ -262,6 +293,7 @@
       <pubDate>Wed, 11 Nov 2026 12:00:00 +0100</pubDate>
       <category>Projectleiding bouw en vastgoed</category><category>Openbare ruimte en civiele techniek bij gemeenten</category>
       <description><![CDATA[<p><strong>Gemeente Berg en Dal</strong><br>Groesbeek (Gelderland) · 36 uur · Loondienst (detachering)<br>Start: 1 december 2026<br>Reageer uiterlijk 24 november 2026</p><p>Neem bij Berg en Dal een portefeuille lopende civieltechnische projecten in de openbare ruimte over en stuur die integraal aan tot oplevering.</p><p><a href="https://dejuistezet.nl/opdrachten/civieltechnisch-projectleider-openbare-ruimte-gemeente-berg-en-dal/">Bekijk de opdracht en reageer</a></p>]]></description>
+      <zet:titel>Civieltechnisch projectleider openbare ruimte</zet:titel><zet:organisatie>Gemeente Berg en Dal</zet:organisatie><zet:locatie>Groesbeek (Gelderland)</zet:locatie><zet:uren>36</zet:uren><zet:vorm>Loondienst (detachering)</zet:vorm><zet:start>1 december 2026</zet:start><zet:sluit>2026-11-24</zet:sluit><zet:datum>2026-11-11</zet:datum><zet:samenvatting>Neem bij Berg en Dal een portefeuille lopende civieltechnische projecten in de openbare ruimte over en stuur die integraal aan tot oplevering.</zet:samenvatting><zet:vakgebieden>projectleiding,openbare-ruimte</zet:vakgebieden>
     </item>
     <item>
       <title>Adviseur ruimtelijke ordening bij Gemeente Heerde</title>
@@ -270,6 +302,7 @@
       <pubDate>Wed, 11 Nov 2026 12:00:00 +0100</pubDate>
       <category>Gebieds- en projectontwikkeling</category>
       <description><![CDATA[<p><strong>Gemeente Heerde</strong><br>Heerde (Gelderland) · 36 uur · Loondienst (detachering)<br>Start: 4 januari 2027<br>Reageer uiterlijk 20 november 2026</p><p>Werk als generalist fysieke leefomgeving bij Heerde: adviseer over gebiedsontwikkelingen, begeleid procedures en behandel bezwaren en planschade.</p><p><a href="https://dejuistezet.nl/opdrachten/adviseur-ruimtelijke-ordening-gemeente-heerde/">Bekijk de opdracht en reageer</a></p>]]></description>
+      <zet:titel>Adviseur ruimtelijke ordening</zet:titel><zet:organisatie>Gemeente Heerde</zet:organisatie><zet:locatie>Heerde (Gelderland)</zet:locatie><zet:uren>36</zet:uren><zet:vorm>Loondienst (detachering)</zet:vorm><zet:start>4 januari 2027</zet:start><zet:sluit>2026-11-20</zet:sluit><zet:datum>2026-11-11</zet:datum><zet:samenvatting>Werk als generalist fysieke leefomgeving bij Heerde: adviseer over gebiedsontwikkelingen, begeleid procedures en behandel bezwaren en planschade.</zet:samenvatting><zet:vakgebieden>gebiedsontwikkeling</zet:vakgebieden>
     </item>
     <item>
       <title>Beleidsadviseur ruimtelijke ordening bij Gemeenten Achtkarspelen en Tytsjerksteradiel</title>
@@ -278,6 +311,7 @@
       <pubDate>Wed, 11 Nov 2026 12:00:00 +0100</pubDate>
       <category>Gebieds- en projectontwikkeling</category><category>Wonen, woningbouw en beleid</category>
       <description><![CDATA[<p><strong>Gemeenten Achtkarspelen en Tytsjerksteradiel</strong><br>Buitenpost (Friesland) · 36 uur · Loondienst (detachering)<br>Start: 14 december 2026<br>Reageer uiterlijk 20 november 2026</p><p>Begeleid complexe ruimtelijke projecten en beoordeel initiatieven onder de Omgevingswet voor de gemeenten Achtkarspelen en Tytsjerksteradiel.</p><p><a href="https://dejuistezet.nl/opdrachten/beleidsadviseur-ruimtelijke-ordening-gemeenten-achtkarspelen-en-tytsjerksteradiel/">Bekijk de opdracht en reageer</a></p>]]></description>
+      <zet:titel>Beleidsadviseur ruimtelijke ordening</zet:titel><zet:organisatie>Gemeenten Achtkarspelen en Tytsjerksteradiel</zet:organisatie><zet:locatie>Buitenpost (Friesland)</zet:locatie><zet:uren>36</zet:uren><zet:vorm>Loondienst (detachering)</zet:vorm><zet:start>14 december 2026</zet:start><zet:sluit>2026-11-20</zet:sluit><zet:datum>2026-11-11</zet:datum><zet:samenvatting>Begeleid complexe ruimtelijke projecten en beoordeel initiatieven onder de Omgevingswet voor de gemeenten Achtkarspelen en Tytsjerksteradiel.</zet:samenvatting><zet:vakgebieden>gebiedsontwikkeling,wonen</zet:vakgebieden>
     </item>
     <item>
       <title>Projectadviseur ruimtelijke ordening en omgevingsrecht bij Gemeente Waterland</title>
@@ -286,6 +320,7 @@
       <pubDate>Wed, 11 Nov 2026 12:00:00 +0100</pubDate>
       <category>Gebieds- en projectontwikkeling</category>
       <description><![CDATA[<p><strong>Gemeente Waterland</strong><br>Monnickendam (Noord-Holland) · 28 uur · Zzp of loondienst<br>Start: 1 januari 2027<br>Reageer uiterlijk 20 november 2026</p><p>Zet bij Waterland een kennis- en ontwikkeltraject ruimtelijke ordening op en begeleid twee startende collega&#x27;s bij complexe procedures en Bopa&#x27;s.</p><p><a href="https://dejuistezet.nl/opdrachten/projectadviseur-ruimtelijke-ordening-en-omgevingsrecht-gemeente-waterland/">Bekijk de opdracht en reageer</a></p>]]></description>
+      <zet:titel>Projectadviseur ruimtelijke ordening en omgevingsrecht</zet:titel><zet:organisatie>Gemeente Waterland</zet:organisatie><zet:locatie>Monnickendam (Noord-Holland)</zet:locatie><zet:uren>28</zet:uren><zet:vorm>Zzp of loondienst</zet:vorm><zet:start>1 januari 2027</zet:start><zet:sluit>2026-11-20</zet:sluit><zet:datum>2026-11-11</zet:datum><zet:samenvatting>Zet bij Waterland een kennis- en ontwikkeltraject ruimtelijke ordening op en begeleid twee startende collega&#x27;s bij complexe procedures en Bopa&#x27;s.</zet:samenvatting><zet:vakgebieden>gebiedsontwikkeling</zet:vakgebieden>
     </item>
     <item>
       <title>Senior projectleider civiele techniek bij Gemeente Hardenberg</title>
@@ -294,6 +329,7 @@
       <pubDate>Wed, 11 Nov 2026 12:00:00 +0100</pubDate>
       <category>Projectleiding bouw en vastgoed</category><category>Openbare ruimte en civiele techniek bij gemeenten</category>
       <description><![CDATA[<p><strong>Gemeente Hardenberg</strong><br>Hardenberg (Overijssel) · 36 uur · Zzp of loondienst<br>Start: 23 november 2026<br>Reageer uiterlijk 20 november 2026</p><p>Leid complexe civieltechnische projecten in de openbare ruimte van Hardenberg, van voorbereiding tot overdracht aan beheer.</p><p><a href="https://dejuistezet.nl/opdrachten/senior-projectleider-civiele-techniek-gemeente-hardenberg/">Bekijk de opdracht en reageer</a></p>]]></description>
+      <zet:titel>Senior projectleider civiele techniek</zet:titel><zet:organisatie>Gemeente Hardenberg</zet:organisatie><zet:locatie>Hardenberg (Overijssel)</zet:locatie><zet:uren>36</zet:uren><zet:vorm>Zzp of loondienst</zet:vorm><zet:start>23 november 2026</zet:start><zet:sluit>2026-11-20</zet:sluit><zet:datum>2026-11-11</zet:datum><zet:samenvatting>Leid complexe civieltechnische projecten in de openbare ruimte van Hardenberg, van voorbereiding tot overdracht aan beheer.</zet:samenvatting><zet:vakgebieden>projectleiding,openbare-ruimte</zet:vakgebieden>
     </item>
     <item>
       <title>Senior projectmanager ruimtelijke projecten bij Gemeente Zoetermeer</title>
@@ -302,6 +338,7 @@
       <pubDate>Wed, 11 Nov 2026 12:00:00 +0100</pubDate>
       <category>Projectleiding bouw en vastgoed</category><category>Gebieds- en projectontwikkeling</category>
       <description><![CDATA[<p><strong>Gemeente Zoetermeer</strong><br>Zoetermeer (Zuid-Holland) · 36 uur · Loondienst (detachering)<br>Start: 4 januari 2027<br>Reageer uiterlijk 20 november 2026</p><p>Breng als senior projectmanager bij het Projectenbureau van Zoetermeer complexe ruimtelijke projecten van visie naar realisatie en coach collega&#x27;s.</p><p><a href="https://dejuistezet.nl/opdrachten/senior-projectmanager-ruimtelijke-projecten-gemeente-zoetermeer/">Bekijk de opdracht en reageer</a></p>]]></description>
+      <zet:titel>Senior projectmanager ruimtelijke projecten</zet:titel><zet:organisatie>Gemeente Zoetermeer</zet:organisatie><zet:locatie>Zoetermeer (Zuid-Holland)</zet:locatie><zet:uren>36</zet:uren><zet:vorm>Loondienst (detachering)</zet:vorm><zet:start>4 januari 2027</zet:start><zet:sluit>2026-11-20</zet:sluit><zet:datum>2026-11-11</zet:datum><zet:samenvatting>Breng als senior projectmanager bij het Projectenbureau van Zoetermeer complexe ruimtelijke projecten van visie naar realisatie en coach collega&#x27;s.</zet:samenvatting><zet:vakgebieden>projectleiding,gebiedsontwikkeling</zet:vakgebieden>
     </item>
     <item>
       <title>Senior beleidsadviseur privatisering sportaccommodaties bij Gemeente Land van Cuijk</title>
@@ -310,6 +347,7 @@
       <pubDate>Wed, 11 Nov 2026 12:00:00 +0100</pubDate>
       <category>Huisvesting en facilitair</category><category>Wonen, woningbouw en beleid</category>
       <description><![CDATA[<p><strong>Gemeente Land van Cuijk</strong><br>Cuijk (Noord-Brabant) · 32 uur · Zzp of loondienst<br>Start: 1 januari 2027<br>Reageer uiterlijk 19 november 2026</p><p>Begeleid bij Land van Cuijk de privatisering van gemeentelijke sportaccommodaties en kom met verenigingen en partners tot gedragen afspraken.</p><p><a href="https://dejuistezet.nl/opdrachten/senior-beleidsadviseur-privatisering-sportaccommodaties-gemeente-land-van-cuijk/">Bekijk de opdracht en reageer</a></p>]]></description>
+      <zet:titel>Senior beleidsadviseur privatisering sportaccommodaties</zet:titel><zet:organisatie>Gemeente Land van Cuijk</zet:organisatie><zet:locatie>Cuijk (Noord-Brabant)</zet:locatie><zet:uren>32</zet:uren><zet:vorm>Zzp of loondienst</zet:vorm><zet:start>1 januari 2027</zet:start><zet:sluit>2026-11-19</zet:sluit><zet:datum>2026-11-11</zet:datum><zet:samenvatting>Begeleid bij Land van Cuijk de privatisering van gemeentelijke sportaccommodaties en kom met verenigingen en partners tot gedragen afspraken.</zet:samenvatting><zet:vakgebieden>huisvesting,wonen</zet:vakgebieden>
     </item>
     <item>
       <title>Projectleider ruimtelijke ontwikkeling bij Gemeente Zwartewaterland</title>
@@ -318,6 +356,7 @@
       <pubDate>Wed, 11 Nov 2026 12:00:00 +0100</pubDate>
       <category>Projectleiding bouw en vastgoed</category><category>Gebieds- en projectontwikkeling</category>
       <description><![CDATA[<p><strong>Gemeente Zwartewaterland</strong><br>Hasselt (Overijssel) · 16 uur · Zzp of loondienst<br>Start: 19 november 2026<br>Reageer uiterlijk 18 november 2026</p><p>Voer projectregie over complexe ruimtelijke ontwikkelopgaven in Hasselt en Genemuiden, waaronder de transformatie van jachthaven De Molenwaard.</p><p><a href="https://dejuistezet.nl/opdrachten/projectleider-ruimtelijke-ontwikkeling-gemeente-zwartewaterland/">Bekijk de opdracht en reageer</a></p>]]></description>
+      <zet:titel>Projectleider ruimtelijke ontwikkeling</zet:titel><zet:organisatie>Gemeente Zwartewaterland</zet:organisatie><zet:locatie>Hasselt (Overijssel)</zet:locatie><zet:uren>16</zet:uren><zet:vorm>Zzp of loondienst</zet:vorm><zet:start>19 november 2026</zet:start><zet:sluit>2026-11-18</zet:sluit><zet:datum>2026-11-11</zet:datum><zet:samenvatting>Voer projectregie over complexe ruimtelijke ontwikkelopgaven in Hasselt en Genemuiden, waaronder de transformatie van jachthaven De Molenwaard.</zet:samenvatting><zet:vakgebieden>projectleiding,gebiedsontwikkeling</zet:vakgebieden>
     </item>
     <item>
       <title>Beleidsadviseur onderwijshuisvesting bij Gemeente Berkelland</title>
@@ -326,6 +365,7 @@
       <pubDate>Wed, 11 Nov 2026 12:00:00 +0100</pubDate>
       <category>Huisvesting en facilitair</category><category>Wonen, woningbouw en beleid</category>
       <description><![CDATA[<p><strong>Gemeente Berkelland</strong><br>Borculo (Gelderland) · 20 uur · Loondienst (detachering)<br>Start: 14 december 2026<br>Reageer uiterlijk 17 november 2026</p><p>Adviseer college en wethouders van Berkelland over onderwijshuisvesting en houd toezicht op huisvestingsprojecten, 20 uur per week.</p><p><a href="https://dejuistezet.nl/opdrachten/beleidsadviseur-onderwijshuisvesting-gemeente-berkelland/">Bekijk de opdracht en reageer</a></p>]]></description>
+      <zet:titel>Beleidsadviseur onderwijshuisvesting</zet:titel><zet:organisatie>Gemeente Berkelland</zet:organisatie><zet:locatie>Borculo (Gelderland)</zet:locatie><zet:uren>20</zet:uren><zet:vorm>Loondienst (detachering)</zet:vorm><zet:start>14 december 2026</zet:start><zet:sluit>2026-11-17</zet:sluit><zet:datum>2026-11-11</zet:datum><zet:samenvatting>Adviseer college en wethouders van Berkelland over onderwijshuisvesting en houd toezicht op huisvestingsprojecten, 20 uur per week.</zet:samenvatting><zet:vakgebieden>huisvesting,wonen</zet:vakgebieden>
     </item>
     <item>
       <title>Senior ontwerper openbare ruimte bij Gemeente Zaanstad</title>
@@ -334,6 +374,7 @@
       <pubDate>Wed, 11 Nov 2026 12:00:00 +0100</pubDate>
       <category>Openbare ruimte en civiele techniek bij gemeenten</category>
       <description><![CDATA[<p><strong>Gemeente Zaanstad</strong><br>Zaandam (Noord-Holland) · 36 uur · Loondienst (detachering)<br>Start: 1 januari 2027<br>Reageer uiterlijk 16 november 2026</p><p>Ontwerp als senior gebiedsgericht aan de openbare ruimte van Zaanstad Centrum, van eerste schets tot uitvoering, en bewaak samenhang en kwaliteit.</p><p><a href="https://dejuistezet.nl/opdrachten/senior-ontwerper-openbare-ruimte-gemeente-zaanstad/">Bekijk de opdracht en reageer</a></p>]]></description>
+      <zet:titel>Senior ontwerper openbare ruimte</zet:titel><zet:organisatie>Gemeente Zaanstad</zet:organisatie><zet:locatie>Zaandam (Noord-Holland)</zet:locatie><zet:uren>36</zet:uren><zet:vorm>Loondienst (detachering)</zet:vorm><zet:start>1 januari 2027</zet:start><zet:sluit>2026-11-16</zet:sluit><zet:datum>2026-11-11</zet:datum><zet:samenvatting>Ontwerp als senior gebiedsgericht aan de openbare ruimte van Zaanstad Centrum, van eerste schets tot uitvoering, en bewaak samenhang en kwaliteit.</zet:samenvatting><zet:vakgebieden>openbare-ruimte</zet:vakgebieden>
     </item>
     <item>
       <title>Senior projectleider sportaccommodaties bij Gemeente Waadhoeke</title>
@@ -342,6 +383,7 @@
       <pubDate>Tue, 10 Nov 2026 12:00:00 +0100</pubDate>
       <category>Projectleiding bouw en vastgoed</category><category>Huisvesting en facilitair</category>
       <description><![CDATA[<p><strong>Gemeente Waadhoeke</strong><br>Franeker (Friesland) · 18 tot 22 uur · Loondienst (detachering)<br>Start: 1 januari 2027<br>Reageer uiterlijk 23 november 2026</p><p>Stuur als deelprojectleider de sportontwikkelingen in Bloemketerp aan: nieuw zwembad, atletiek en ijsbaan, van planvorming tot ingebruikname.</p><p><a href="https://dejuistezet.nl/opdrachten/senior-projectleider-sportaccommodaties-gemeente-waadhoeke/">Bekijk de opdracht en reageer</a></p>]]></description>
+      <zet:titel>Senior projectleider sportaccommodaties</zet:titel><zet:organisatie>Gemeente Waadhoeke</zet:organisatie><zet:locatie>Franeker (Friesland)</zet:locatie><zet:uren>18 tot 22</zet:uren><zet:vorm>Loondienst (detachering)</zet:vorm><zet:start>1 januari 2027</zet:start><zet:sluit>2026-11-23</zet:sluit><zet:datum>2026-11-10</zet:datum><zet:samenvatting>Stuur als deelprojectleider de sportontwikkelingen in Bloemketerp aan: nieuw zwembad, atletiek en ijsbaan, van planvorming tot ingebruikname.</zet:samenvatting><zet:vakgebieden>projectleiding,huisvesting</zet:vakgebieden>
     </item>
     <item>
       <title>Ambtelijk opdrachtgever maatschappelijke voorzieningen bij Gemeente Delft</title>
@@ -350,6 +392,7 @@
       <pubDate>Tue, 10 Nov 2026 12:00:00 +0100</pubDate>
       <category>Projectleiding bouw en vastgoed</category><category>Asset- en portefeuillemanagement</category>
       <description><![CDATA[<p><strong>Gemeente Delft</strong><br>Delft (Zuid-Holland), hybride · 32 tot 36 uur · Loondienst (detachering)<br>Start: 4 januari 2027<br>Reageer uiterlijk 20 november 2026</p><p>Voer namens Delft de regie op strategische vastgoedopgaven voor onderwijs, welzijn en zorg, van programmering tot realisatie en beheer.</p><p><a href="https://dejuistezet.nl/opdrachten/ambtelijk-opdrachtgever-maatschappelijke-voorzieningen-gemeente-delft/">Bekijk de opdracht en reageer</a></p>]]></description>
+      <zet:titel>Ambtelijk opdrachtgever maatschappelijke voorzieningen</zet:titel><zet:organisatie>Gemeente Delft</zet:organisatie><zet:locatie>Delft (Zuid-Holland), hybride</zet:locatie><zet:uren>32 tot 36</zet:uren><zet:vorm>Loondienst (detachering)</zet:vorm><zet:start>4 januari 2027</zet:start><zet:sluit>2026-11-20</zet:sluit><zet:datum>2026-11-10</zet:datum><zet:samenvatting>Voer namens Delft de regie op strategische vastgoedopgaven voor onderwijs, welzijn en zorg, van programmering tot realisatie en beheer.</zet:samenvatting><zet:vakgebieden>projectleiding,asset</zet:vakgebieden>
     </item>
     <item>
       <title>Projectmanager huisvesting en vastgoed bij Waternet</title>
@@ -358,6 +401,7 @@
       <pubDate>Tue, 10 Nov 2026 12:00:00 +0100</pubDate>
       <category>Projectleiding bouw en vastgoed</category><category>Huisvesting en facilitair</category>
       <description><![CDATA[<p><strong>Waternet</strong><br>Amsterdam (Noord-Holland) · 32 uur · Loondienst (detachering)<br>Start: 4 januari 2027<br>Reageer uiterlijk 20 november 2026</p><p>Leid integrale huisvestings-, vastgoed- en facilitaire projecten bij Waternet: renovaties, herhuisvesting, verduurzaming en businesscases.</p><p><a href="https://dejuistezet.nl/opdrachten/projectmanager-huisvesting-en-vastgoed-waternet/">Bekijk de opdracht en reageer</a></p>]]></description>
+      <zet:titel>Projectmanager huisvesting en vastgoed</zet:titel><zet:organisatie>Waternet</zet:organisatie><zet:locatie>Amsterdam (Noord-Holland)</zet:locatie><zet:uren>32</zet:uren><zet:vorm>Loondienst (detachering)</zet:vorm><zet:start>4 januari 2027</zet:start><zet:sluit>2026-11-20</zet:sluit><zet:datum>2026-11-10</zet:datum><zet:samenvatting>Leid integrale huisvestings-, vastgoed- en facilitaire projecten bij Waternet: renovaties, herhuisvesting, verduurzaming en businesscases.</zet:samenvatting><zet:vakgebieden>projectleiding,huisvesting</zet:vakgebieden>
     </item>
     <item>
       <title>Projectleider woningbouw bij Gemeenten Achtkarspelen en Tytsjerksteradiel</title>
@@ -366,6 +410,7 @@
       <pubDate>Tue, 10 Nov 2026 12:00:00 +0100</pubDate>
       <category>Projectleiding bouw en vastgoed</category><category>Wonen, woningbouw en beleid</category>
       <description><![CDATA[<p><strong>Gemeenten Achtkarspelen en Tytsjerksteradiel</strong><br>Buitenpost en Burgum (Friesland) · 36 uur · Loondienst (detachering)<br>Start: 1 januari 2027<br>Reageer uiterlijk 16 november 2026</p><p>Leid woningbouwprojecten voor twee Friese gemeenten: van projectplan en planning tot participatie en bestuurlijke besluitvorming.</p><p><a href="https://dejuistezet.nl/opdrachten/projectleider-woningbouw-gemeenten-achtkarspelen-en-tytsjerksteradiel/">Bekijk de opdracht en reageer</a></p>]]></description>
+      <zet:titel>Projectleider woningbouw</zet:titel><zet:organisatie>Gemeenten Achtkarspelen en Tytsjerksteradiel</zet:organisatie><zet:locatie>Buitenpost en Burgum (Friesland)</zet:locatie><zet:uren>36</zet:uren><zet:vorm>Loondienst (detachering)</zet:vorm><zet:start>1 januari 2027</zet:start><zet:sluit>2026-11-16</zet:sluit><zet:datum>2026-11-10</zet:datum><zet:samenvatting>Leid woningbouwprojecten voor twee Friese gemeenten: van projectplan en planning tot participatie en bestuurlijke besluitvorming.</zet:samenvatting><zet:vakgebieden>projectleiding,wonen</zet:vakgebieden>
     </item>
     <item>
       <title>Projectsecretaris gebiedsgericht integraal huisvestingsplan bij Gemeente Rotterdam</title>
@@ -374,6 +419,7 @@
       <pubDate>Tue, 10 Nov 2026 12:00:00 +0100</pubDate>
       <category>Huisvesting en facilitair</category>
       <description><![CDATA[<p><strong>Gemeente Rotterdam</strong><br>Rotterdam (Zuid-Holland), hybride · 24 uur · Loondienst (detachering)<br>Start: 17 november 2026<br>Reageer uiterlijk 16 november 2026</p><p>Organiseer het eerste gebiedsgerichte Integraal Huisvestingsplan van Rotterdam: planning, acties en gebiedssessies voor 14 gebieden.</p><p><a href="https://dejuistezet.nl/opdrachten/projectsecretaris-gebiedsgericht-integraal-huisvestingsplan-gemeente-rotterdam/">Bekijk de opdracht en reageer</a></p>]]></description>
+      <zet:titel>Projectsecretaris gebiedsgericht integraal huisvestingsplan</zet:titel><zet:organisatie>Gemeente Rotterdam</zet:organisatie><zet:locatie>Rotterdam (Zuid-Holland), hybride</zet:locatie><zet:uren>24</zet:uren><zet:vorm>Loondienst (detachering)</zet:vorm><zet:start>17 november 2026</zet:start><zet:sluit>2026-11-16</zet:sluit><zet:datum>2026-11-10</zet:datum><zet:samenvatting>Organiseer het eerste gebiedsgerichte Integraal Huisvestingsplan van Rotterdam: planning, acties en gebiedssessies voor 14 gebieden.</zet:samenvatting><zet:vakgebieden>huisvesting</zet:vakgebieden>
     </item>
     <item>
       <title>Senior adviseur stedenbouw Flora Campus bij Gemeente Westland</title>
@@ -382,6 +428,7 @@
       <pubDate>Tue, 10 Nov 2026 12:00:00 +0100</pubDate>
       <category>Gebieds- en projectontwikkeling</category>
       <description><![CDATA[<p><strong>Gemeente Westland</strong><br>Naaldwijk (Zuid-Holland), hybride · 8 uur · Zzp of loondienst<br>Start: 17 november 2026<br>Reageer uiterlijk 16 november 2026</p><p>Adviseer het kwaliteitsteam van Flora Campus Westland over ruimtelijke voorstellen, verkaveling, openbare ruimte en inpassing van infrastructuur.</p><p><a href="https://dejuistezet.nl/opdrachten/senior-adviseur-stedenbouw-flora-campus-gemeente-westland/">Bekijk de opdracht en reageer</a></p>]]></description>
+      <zet:titel>Senior adviseur stedenbouw Flora Campus</zet:titel><zet:organisatie>Gemeente Westland</zet:organisatie><zet:locatie>Naaldwijk (Zuid-Holland), hybride</zet:locatie><zet:uren>8</zet:uren><zet:vorm>Zzp of loondienst</zet:vorm><zet:start>17 november 2026</zet:start><zet:sluit>2026-11-16</zet:sluit><zet:datum>2026-11-10</zet:datum><zet:samenvatting>Adviseer het kwaliteitsteam van Flora Campus Westland over ruimtelijke voorstellen, verkaveling, openbare ruimte en inpassing van infrastructuur.</zet:samenvatting><zet:vakgebieden>gebiedsontwikkeling</zet:vakgebieden>
     </item>
     <item>
       <title>Civieltechnisch projectleider herinrichting Marktplein bij Gemeente Berg en Dal</title>
@@ -390,6 +437,7 @@
       <pubDate>Mon, 09 Nov 2026 12:00:00 +0100</pubDate>
       <category>Projectleiding bouw en vastgoed</category><category>Openbare ruimte en civiele techniek bij gemeenten</category>
       <description><![CDATA[<p><strong>Gemeente Berg en Dal</strong><br>Groesbeek (Gelderland) · 16 uur · Loondienst (detachering)<br>Start: 24 november 2026<br>Reageer uiterlijk 23 november 2026</p><p>Rond het politiek gevoelige project Marktplein in Groesbeek af: aanbesteding, uitvoering als directievoerder en overdracht, plus aangrenzende deelprojecten.</p><p><a href="https://dejuistezet.nl/opdrachten/civieltechnisch-projectleider-herinrichting-marktplein-gemeente-berg-en-dal/">Bekijk de opdracht en reageer</a></p>]]></description>
+      <zet:titel>Civieltechnisch projectleider herinrichting Marktplein</zet:titel><zet:organisatie>Gemeente Berg en Dal</zet:organisatie><zet:locatie>Groesbeek (Gelderland)</zet:locatie><zet:uren>16</zet:uren><zet:vorm>Loondienst (detachering)</zet:vorm><zet:start>24 november 2026</zet:start><zet:sluit>2026-11-23</zet:sluit><zet:datum>2026-11-09</zet:datum><zet:samenvatting>Rond het politiek gevoelige project Marktplein in Groesbeek af: aanbesteding, uitvoering als directievoerder en overdracht, plus aangrenzende deelprojecten.</zet:samenvatting><zet:vakgebieden>projectleiding,openbare-ruimte</zet:vakgebieden>
     </item>
     <item>
       <title>Coördinator volkshuisvestingsprogramma bij Gemeente Waalwijk</title>
@@ -398,6 +446,7 @@
       <pubDate>Mon, 09 Nov 2026 12:00:00 +0100</pubDate>
       <category>Huisvesting en facilitair</category><category>Wonen, woningbouw en beleid</category>
       <description><![CDATA[<p><strong>Gemeente Waalwijk</strong><br>Waalwijk (Noord-Brabant), hybride · 8 tot 12 uur · Zzp of loondienst<br>Start: 4 januari 2027<br>Reageer uiterlijk 20 november 2026</p><p>Coördineer het proces naar een integraal volkshuisvestingsprogramma voor Waalwijk en geef samen met de beleidsadviseurs wonen de inhoud vorm.</p><p><a href="https://dejuistezet.nl/opdrachten/coordinator-volkshuisvestingsprogramma-gemeente-waalwijk/">Bekijk de opdracht en reageer</a></p>]]></description>
+      <zet:titel>Coördinator volkshuisvestingsprogramma</zet:titel><zet:organisatie>Gemeente Waalwijk</zet:organisatie><zet:locatie>Waalwijk (Noord-Brabant), hybride</zet:locatie><zet:uren>8 tot 12</zet:uren><zet:vorm>Zzp of loondienst</zet:vorm><zet:start>4 januari 2027</zet:start><zet:sluit>2026-11-20</zet:sluit><zet:datum>2026-11-09</zet:datum><zet:samenvatting>Coördineer het proces naar een integraal volkshuisvestingsprogramma voor Waalwijk en geef samen met de beleidsadviseurs wonen de inhoud vorm.</zet:samenvatting><zet:vakgebieden>huisvesting,wonen</zet:vakgebieden>
     </item>
     <item>
       <title>Senior projectleider gebiedsontwikkeling en woningbouw bij 1Stroom (gemeenten Duiven en Westervoort)</title>
@@ -406,6 +455,7 @@
       <pubDate>Mon, 09 Nov 2026 12:00:00 +0100</pubDate>
       <category>Projectleiding bouw en vastgoed</category><category>Gebieds- en projectontwikkeling</category><category>Wonen, woningbouw en beleid</category>
       <description><![CDATA[<p><strong>1Stroom (gemeenten Duiven en Westervoort)</strong><br>Duiven (Gelderland) · 20 tot 24 uur · Zzp of loondienst<br>Start: 20 november 2026<br>Reageer uiterlijk 19 november 2026</p><p>Leid de woningbouwlocatie Biezenkampen in Duiven en meerdere kleinere herontwikkellocaties integraal, van planologie tot bestuurlijke besluitvorming.</p><p><a href="https://dejuistezet.nl/opdrachten/senior-projectleider-gebiedsontwikkeling-en-woningbouw-1stroom-gemeenten-duiven-en-westervoort/">Bekijk de opdracht en reageer</a></p>]]></description>
+      <zet:titel>Senior projectleider gebiedsontwikkeling en woningbouw</zet:titel><zet:organisatie>1Stroom (gemeenten Duiven en Westervoort)</zet:organisatie><zet:locatie>Duiven (Gelderland)</zet:locatie><zet:uren>20 tot 24</zet:uren><zet:vorm>Zzp of loondienst</zet:vorm><zet:start>20 november 2026</zet:start><zet:sluit>2026-11-19</zet:sluit><zet:datum>2026-11-09</zet:datum><zet:samenvatting>Leid de woningbouwlocatie Biezenkampen in Duiven en meerdere kleinere herontwikkellocaties integraal, van planologie tot bestuurlijke besluitvorming.</zet:samenvatting><zet:vakgebieden>projectleiding,gebiedsontwikkeling,wonen</zet:vakgebieden>
     </item>
   </channel>
 </rss>

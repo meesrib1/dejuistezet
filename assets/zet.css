@@ -691,6 +691,39 @@ a.niche-card{min-height:280px}
 .opd-card .pc-link .arr{transition:transform .35s var(--ease)}
 .opd-card:hover .pc-link .arr{transform:translateX(6px)}
 @media(max-width:640px){.opd-card{grid-template-columns:1fr}}
+.vh{position:absolute!important;width:1px;height:1px;padding:0;margin:-1px;overflow:hidden;clip:rect(0,0,0,0);white-space:nowrap;border:0}
+.opd-filter{background:#fff;border-radius:var(--rad);padding:clamp(18px,2.4vw,28px);box-shadow:0 14px 40px rgba(19,25,75,.07);margin-top:clamp(20px,3vw,30px)}
+.f-rij{display:grid;grid-template-columns:minmax(0,1fr) 210px 210px;gap:12px}
+.f-zoek{position:relative}
+.f-zoek svg{position:absolute;left:16px;top:50%;transform:translateY(-50%);color:var(--ink-60);pointer-events:none}
+.opd-filter input,.opd-filter select{width:100%;font:inherit;font-size:1rem;color:var(--ink);background:var(--paper);border:1.5px solid rgba(19,25,75,.5);border-radius:14px;padding:13px 16px;min-height:50px}
+.opd-filter input{padding-left:46px}
+.opd-filter select{appearance:none;-webkit-appearance:none;padding-right:40px;cursor:pointer;
+  background-image:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='12' height='8' viewBox='0 0 12 8'%3E%3Cpath d='M1 1l5 5 5-5' fill='none' stroke='%2313194B' stroke-width='2'/%3E%3C/svg%3E");background-repeat:no-repeat;background-position:right 16px center}
+.opd-filter input:focus,.opd-filter select:focus{outline:none;border-color:var(--navy);box-shadow:0 0 0 3px rgba(43,57,144,.18)}
+.f-chips{display:flex;flex-wrap:wrap;gap:8px;margin-top:16px}
+.f-chip{font:inherit;font-size:.88rem;font-weight:600;color:var(--ink);background:transparent;border:1.5px solid var(--ink-30);border-radius:999px;padding:8px 14px;cursor:pointer;transition:background .25s var(--ease),color .25s var(--ease),border-color .25s var(--ease)}
+.f-chip .n{display:inline-block;min-width:1.6em;margin-left:4px;padding:1px 7px;border-radius:999px;background:var(--paper-2);font-size:.78rem;font-weight:700;text-align:center}
+.f-chip:hover{border-color:var(--navy)}
+.f-chip[aria-pressed="true"]{background:var(--navy);border-color:var(--navy);color:#fff}
+.f-chip[aria-pressed="true"] .n{background:var(--coral);color:#fff}
+.f-chip.leeg{opacity:.45}
+.f-chip:focus-visible,.f-reset:focus-visible{outline:3px solid var(--blue);outline-offset:2px}
+.f-status{display:flex;flex-wrap:wrap;align-items:center;gap:10px 18px;margin-top:16px;padding-top:16px;border-top:1px solid var(--ink-12)}
+.f-status p{margin:0;color:var(--ink-60)}
+.f-status p b{color:var(--ink);font-size:1.1rem}
+.f-reset{font:inherit;font-size:.92rem;font-weight:700;color:var(--coral-ui);background:none;border:0;padding:6px 2px;cursor:pointer;text-decoration:underline;text-underline-offset:3px}
+.f-sort{margin-left:auto;display:flex;align-items:center;gap:10px;font-size:.9rem;color:var(--ink-60)}
+.f-sort select{width:auto;min-height:42px;padding:8px 38px 8px 14px;font-size:.92rem}
+.opd-card[hidden]{display:none}
+.opd-list{margin-top:clamp(18px,2.4vw,26px)}
+.opd-leeg{background:var(--paper-2);border-radius:var(--rad);padding:clamp(24px,3vw,36px);margin-top:18px}
+.opd-leeg[hidden]{display:none}
+.opd-leeg p{margin:0 0 18px;max-width:60ch;color:var(--ink-60)}.opd-leeg p strong{color:var(--ink)}
+.opd-leeg-knoppen{display:flex;flex-wrap:wrap;align-items:center;gap:14px 22px}
+@media(max-width:900px){.f-rij{grid-template-columns:1fr 1fr}.f-zoek{grid-column:1/-1}}
+@media(max-width:640px){.f-rij{grid-template-columns:1fr}.f-chips{flex-wrap:nowrap;overflow-x:auto;margin-left:-4px;margin-right:-4px;padding:2px 4px 6px;scrollbar-width:none}.f-chips::-webkit-scrollbar{display:none}.f-chip{flex:none}
+  .f-sort{margin-left:0;width:100%}.f-sort select{flex:1}}
 .opd-empty{background:#fff;border-radius:var(--rad);padding:clamp(34px,4vw,56px);box-shadow:0 10px 36px rgba(19,25,75,.07);margin-top:clamp(30px,4vw,50px);display:grid;grid-template-columns:1.2fr 1fr;gap:30px;align-items:center}
 @media(max-width:900px){.opd-empty{grid-template-columns:1fr}}
 .tag{display:inline-block;background:var(--paper-2);border-radius:999px;padding:6px 14px;font-size:.8rem;font-weight:700;letter-spacing:.06em}

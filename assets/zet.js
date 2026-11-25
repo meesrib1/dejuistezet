@@ -163,7 +163,7 @@
         })
         .catch(function(){
           btn.disabled=false; btn.innerHTML=btnText;
-          if(err){ err.textContent='Versturen is niet gelukt. Mail ons gerust direct op info@dejuistezet.nl of bel 06-17499285.'; err.style.display='block'; }
+          if(err){ err.textContent='Versturen is niet gelukt. Mail ons gerust direct op info@dejuistezet.nl of bel 085-4863411.'; err.style.display='block'; }
         });
     });
   });
